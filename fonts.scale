@@ -1,4 +1,4 @@
-4794
+4878
 3270Medium.otf -misc-ibm 3270-medium-r-normal--0-0-0-0-m-0-ascii-0
 3270Medium.otf -misc-ibm 3270-medium-r-normal--0-0-0-0-m-0-ibm-cp437
 3270Medium.otf -misc-ibm 3270-medium-r-normal--0-0-0-0-m-0-ibm-cp850
@@ -71,6 +71,8 @@ Avara-Bold.otf -misc-avara-bold-r-normal--0-0-0-0-p-0-adobe-fontspecific
 Avara-Bold.otf -misc-avara-bold-r-normal--0-0-0-0-p-0-iso10646-1
 Avara-BoldItalic.otf -misc-avara bold italic-bold-i-normal--0-0-0-0-p-0-adobe-fontspecific
 Avara-BoldItalic.otf -misc-avara bold italic-bold-i-normal--0-0-0-0-p-0-iso10646-1
+BackOut.otf -misc-backout medium-medium-r-normal--0-0-0-0-p-0-adobe-fontspecific
+BackOut.otf -misc-backout medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
 Barlow-Black.otf -misc-barlow black-black-r-normal--0-0-0-0-p-0-adobe-standard
 Barlow-Black.otf -misc-barlow black-black-r-normal--0-0-0-0-p-0-ascii-0
 Barlow-Black.otf -misc-barlow black-black-r-normal--0-0-0-0-p-0-iso10646-1
@@ -383,6 +385,8 @@ BluuNext-Bold.otf -misc-bluu next-bold-r-normal--0-0-0-0-p-0-adobe-fontspecific
 BluuNext-Bold.otf -misc-bluu next-bold-r-normal--0-0-0-0-p-0-iso10646-1
 BluuNext-Bolditalic.otf -misc-bluu next-bold-i-normal--0-0-0-0-p-0-adobe-fontspecific
 BluuNext-Bolditalic.otf -misc-bluu next-bold-i-normal--0-0-0-0-p-0-iso10646-1
+BluuNext-Titling.otf -misc-bluu next-semibold-r-semicondensed--0-0-0-0-p-0-adobe-fontspecific
+BluuNext-Titling.otf -misc-bluu next-semibold-r-semicondensed--0-0-0-0-p-0-iso10646-1
 Cantarell-Bold.otf -misc-cantarell-bold-r-normal--0-0-0-0-p-0-ascii-0
 Cantarell-Bold.otf -misc-cantarell-bold-r-normal--0-0-0-0-p-0-iso10646-1
 Cantarell-Bold.otf -misc-cantarell-bold-r-normal--0-0-0-0-p-0-iso8859-1
@@ -611,16 +615,6 @@ Commune NuitDebout.otf -misc-commune nuit debout-medium-r-normal--0-0-0-0-p-0-is
 Commune NuitDebout.otf -misc-commune nuit debout-medium-r-normal--0-0-0-0-p-0-iso8859-3
 Commune NuitDebout.otf -misc-commune nuit debout-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Commune NuitDebout.otf -misc-commune nuit debout-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
-Compagnon-Bold.otf -misc-compagnon bold-bold-r-normal--0-0-0-0-p-0-adobe-fontspecific
-Compagnon-Bold.otf -misc-compagnon bold-bold-r-normal--0-0-0-0-p-0-iso10646-1
-Compagnon-Light.otf -misc-compagnon light-medium-r-normal--0-0-0-0-p-0-iso10646-1
-Compagnon-Light.otf -misc-compagnon light-medium-r-normal--0-0-0-0-p-0-iso8859-15
-Compagnon-LightItalic.otf -misc-compagnon light italic-medium-r-normal--0-0-0-0-p-0-iso10646-1
-Compagnon-LightItalic.otf -misc-compagnon light italic-medium-r-normal--0-0-0-0-p-0-iso8859-15
-Compagnon-Medium.otf -misc-compagnon medium-semibold-r-normal--0-0-0-0-p-0-adobe-fontspecific
-Compagnon-Medium.otf -misc-compagnon medium-semibold-r-normal--0-0-0-0-p-0-iso10646-1
-Compagnon-Roman.otf -misc-compagnon roman-medium-r-normal--0-0-0-0-p-0-iso10646-1
-Compagnon-Roman.otf -misc-compagnon roman-medium-r-normal--0-0-0-0-p-0-iso8859-15
 CooperHewitt-Bold.otf -misc-cooper hewitt-bold-r-normal--0-0-0-0-p-0-iso10646-1
 CooperHewitt-Bold.otf -misc-cooper hewitt-bold-r-normal--0-0-0-0-p-0-iso8859-10
 Cormorant-Bold.ttf -misc-cormorant-bold-r-normal--0-0-0-0-p-0-iso10646-1
@@ -2930,6 +2924,9 @@ MasterWide-230 v0043.otf -misc-master wide 230-black-r-normal--0-0-0-0-p-0-adobe
 MasterWide-230 v0043.otf -misc-master wide 230-black-r-normal--0-0-0-0-p-0-iso10646-1
 MasterWide-44 v0043.otf -misc-master wide 44-light-r-normal--0-0-0-0-p-0-adobe-fontspecific
 MasterWide-44 v0043.otf -misc-master wide 44-light-r-normal--0-0-0-0-p-0-iso10646-1
+Montaga-Regular.ttf -misc-montaga-medium-r-normal--0-0-0-0-p-0-ascii-0
+Montaga-Regular.ttf -misc-montaga-medium-r-normal--0-0-0-0-p-0-iso10646-1
+Montaga-Regular.ttf -misc-montaga-medium-r-normal--0-0-0-0-p-0-iso8859-1
 NotoEmoji-Regular.ttf -monotype-noto emoji-medium-r-normal--0-0-0-0-m-0-iso10646-1
 NotoMono-Regular.ttf -monotype-noto mono-medium-r-normal--0-0-0-0-m-0-adobe-standard
 NotoMono-Regular.ttf -monotype-noto mono-medium-r-normal--0-0-0-0-m-0-ascii-0
@@ -3240,6 +3237,9 @@ OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-koi8-u
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-koi8-uni
 OpenSans-SemiBoldItalic.ttf -misc-open sans semibold-semibold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+PinyonScript-Regular.ttf -misc-pinyon script-medium-r-normal--0-0-0-0-p-0-ascii-0
+PinyonScript-Regular.ttf -misc-pinyon script-medium-r-normal--0-0-0-0-p-0-iso10646-1
+PinyonScript-Regular.ttf -misc-pinyon script-medium-r-normal--0-0-0-0-p-0-iso8859-1
 Polsku.ttf -misc-polsku-medium-r-normal--0-0-0-0-p-0-iso10646-1
 PoppinsLatin-Black.otf -misc-poppins latin black-black-r-normal--0-0-0-0-p-0-adobe-standard
 PoppinsLatin-Black.otf -misc-poppins latin black-black-r-normal--0-0-0-0-p-0-ascii-0
@@ -3421,6 +3421,94 @@ PoppinsLatin-ThinItalic.otf -misc-poppins latin thin-light-i-normal--0-0-0-0-p-0
 PoppinsLatin-ThinItalic.otf -misc-poppins latin thin-light-i-normal--0-0-0-0-p-0-iso8859-2
 PoppinsLatin-ThinItalic.otf -misc-poppins latin thin-light-i-normal--0-0-0-0-p-0-iso8859-9
 PoppinsLatin-ThinItalic.otf -misc-poppins latin thin-light-i-normal--0-0-0-0-p-0-microsoft-cp1252
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-Black.ttf -misc-red hat display black-black-r-normal--0-0-0-0-p-0-iso8859-9
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-BlackItalic.ttf -misc-red hat display black-black-i-normal--0-0-0-0-p-0-iso8859-9
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-Bold.ttf -misc-red hat display-bold-r-normal--0-0-0-0-p-0-iso8859-9
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-BoldItalic.ttf -misc-red hat display-bold-i-normal--0-0-0-0-p-0-iso8859-9
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-Italic.ttf -misc-red hat display-medium-i-normal--0-0-0-0-p-0-iso8859-9
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-Medium.ttf -misc-red hat display medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-MediumItalic.ttf -misc-red hat display medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-ascii-0
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso10646-1
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-1
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-10
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-13
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-15
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-16
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-2
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-3
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-4
+RedHatDisplay-Regular.ttf -misc-red hat display-medium-r-normal--0-0-0-0-p-0-iso8859-9
 Savate-Serif.otf -misc-savateserif-medium-r-normal--0-0-0-0-p-0-iso10646-1
 Savate-Serif.otf -misc-savateserif-medium-r-normal--0-0-0-0-p-0-iso8859-10
 Savate-Serif.otf -misc-savateserif-medium-r-normal--0-0-0-0-p-0-iso8859-2
@@ -4392,10 +4480,6 @@ belgika-8th-webfont.ttf -misc-belgika-semibold-r-normal--0-0-0-0-p-0-iso10646-1
 belgika-8th-webfont.ttf -misc-belgika-semibold-r-normal--0-0-0-0-p-0-iso8859-1
 grobe-deutschmeister.otf -misc-grobe deutschmeister-black-r-normal--0-0-0-0-p-0-adobe-fontspecific
 grobe-deutschmeister.otf -misc-grobe deutschmeister-black-r-normal--0-0-0-0-p-0-iso10646-1
-happy-times-at-the-ikob.otf -misc-happy times at the ikob-medium-r-normal--0-0-0-0-p-0-adobe-fontspecific
-happy-times-at-the-ikob.otf -misc-happy times at the ikob-medium-r-normal--0-0-0-0-p-0-iso10646-1
-happy-times-at-the-ikob_italic.otf -misc-happy times at the ikob italic-medium-r-normal--0-0-0-0-p-0-adobe-fontspecific
-happy-times-at-the-ikob_italic.otf -misc-happy times at the ikob italic-medium-r-normal--0-0-0-0-p-0-iso10646-1
 helvetia-verbundene.otf -misc-helvetia verbundene-medium-r-normal--0-0-0-0-p-0-ascii-0
 helvetia-verbundene.otf -misc-helvetia verbundene-medium-r-normal--0-0-0-0-p-0-iso10646-1
 helvetia-verbundene.otf -misc-helvetia verbundene-medium-r-normal--0-0-0-0-p-0-iso8859-1

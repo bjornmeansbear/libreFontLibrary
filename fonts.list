@@ -8,6 +8,7 @@
 /Library/Fonts/libreFontLibrary//Avara-Black.otf
 /Library/Fonts/libreFontLibrary//Avara-Bold.otf
 /Library/Fonts/libreFontLibrary//Avara-BoldItalic.otf
+/Library/Fonts/libreFontLibrary//BackOut.otf
 /Library/Fonts/libreFontLibrary//Barlow-Black.otf
 /Library/Fonts/libreFontLibrary//Barlow-Bold.otf
 /Library/Fonts/libreFontLibrary//Barlow-ExtraBold.otf
@@ -42,6 +43,7 @@
 /Library/Fonts/libreFontLibrary//belgika-8th-webfont.ttf
 /Library/Fonts/libreFontLibrary//BluuNext-Bold.otf
 /Library/Fonts/libreFontLibrary//BluuNext-Bolditalic.otf
+/Library/Fonts/libreFontLibrary//BluuNext-Titling.otf
 /Library/Fonts/libreFontLibrary//Cantarell-Bold.otf
 /Library/Fonts/libreFontLibrary//Cantarell-BoldOblique.otf
 /Library/Fonts/libreFontLibrary//Cantarell-Oblique.otf
@@ -57,11 +59,6 @@
 /Library/Fonts/libreFontLibrary//Combat.otf
 /Library/Fonts/libreFontLibrary//Commune NuitDebout-Pochoir.otf
 /Library/Fonts/libreFontLibrary//Commune NuitDebout.otf
-/Library/Fonts/libreFontLibrary//Compagnon-Bold.otf
-/Library/Fonts/libreFontLibrary//Compagnon-Light.otf
-/Library/Fonts/libreFontLibrary//Compagnon-LightItalic.otf
-/Library/Fonts/libreFontLibrary//Compagnon-Medium.otf
-/Library/Fonts/libreFontLibrary//Compagnon-Roman.otf
 /Library/Fonts/libreFontLibrary//CooperHewitt-Bold.otf
 /Library/Fonts/libreFontLibrary//CooperHewitt-BoldItalic.otf
 /Library/Fonts/libreFontLibrary//CooperHewitt-Book.otf
@@ -154,8 +151,6 @@
 /Library/Fonts/libreFontLibrary//Grenze-Thin.ttf
 /Library/Fonts/libreFontLibrary//Grenze-ThinItalic.ttf
 /Library/Fonts/libreFontLibrary//grobe-deutschmeister.otf
-/Library/Fonts/libreFontLibrary//happy-times-at-the-ikob.otf
-/Library/Fonts/libreFontLibrary//happy-times-at-the-ikob_italic.otf
 /Library/Fonts/libreFontLibrary//helvetia-verbundene.otf
 /Library/Fonts/libreFontLibrary//HKGrotesk-Bold.otf
 /Library/Fonts/libreFontLibrary//HKGrotesk-BoldItalic.otf
@@ -319,41 +314,23 @@
 /Library/Fonts/libreFontLibrary//LibreClarendonWide-44Light.otf
 /Library/Fonts/libreFontLibrary//LibreClarendonWide-74Regular.otf
 /Library/Fonts/libreFontLibrary//LibreFranklin-Black.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-Black.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-BlackItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-BlackItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-Bold.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-Bold.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-BoldItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-BoldItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-ExtraBold.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-ExtraBold.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-ExtraBoldItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-ExtraBoldItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-ExtraLight.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-ExtraLight.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-ExtraLightItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-ExtraLightItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-Italic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-Italic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-Light.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-Light.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-LightItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-LightItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-Medium.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-Medium.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-MediumItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-MediumItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-Regular.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-Regular.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-SemiBold.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-SemiBold.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-SemiBoldItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-SemiBoldItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-Thin.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-Thin.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklin-ThinItalic.otf
-/Library/Fonts/libreFontLibrary//LibreFranklin-ThinItalic.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklinGX-Italics-v4015.ttf
 /Library/Fonts/libreFontLibrary//LibreFranklinGX-Romans-v4015.ttf
 /Library/Fonts/libreFontLibrary//LinBiolinum_K.otf
@@ -401,6 +378,7 @@
 /Library/Fonts/libreFontLibrary//MasterWide-230 v0044 a.otf
 /Library/Fonts/libreFontLibrary//MasterWide-44 v0043.otf
 /Library/Fonts/libreFontLibrary//MasterWide-44 v0044 a.otf
+/Library/Fonts/libreFontLibrary//Montaga-Regular.ttf
 /Library/Fonts/libreFontLibrary//NotoColorEmoji.ttf
 /Library/Fonts/libreFontLibrary//NotoEmoji-Regular.ttf
 /Library/Fonts/libreFontLibrary//NotoMono-Regular.ttf
@@ -440,6 +418,7 @@
 /Library/Fonts/libreFontLibrary//overpass-semibold.otf
 /Library/Fonts/libreFontLibrary//overpass-thin-italic.otf
 /Library/Fonts/libreFontLibrary//overpass-thin.otf
+/Library/Fonts/libreFontLibrary//PinyonScript-Regular.ttf
 /Library/Fonts/libreFontLibrary//playfair-display_black-italic.otf
 /Library/Fonts/libreFontLibrary//playfair-display_black.otf
 /Library/Fonts/libreFontLibrary//playfair-display_bold-italic.otf
@@ -467,6 +446,15 @@
 /Library/Fonts/libreFontLibrary//PoppinsLatin-ThinItalic.otf
 /Library/Fonts/libreFontLibrary//quattrocento_bold.otf
 /Library/Fonts/libreFontLibrary//quattrocento_regular.otf
+/Library/Fonts/libreFontLibrary//README.md
+/Library/Fonts/libreFontLibrary//RedHatDisplay-Black.ttf
+/Library/Fonts/libreFontLibrary//RedHatDisplay-BlackItalic.ttf
+/Library/Fonts/libreFontLibrary//RedHatDisplay-Bold.ttf
+/Library/Fonts/libreFontLibrary//RedHatDisplay-BoldItalic.ttf
+/Library/Fonts/libreFontLibrary//RedHatDisplay-Italic.ttf
+/Library/Fonts/libreFontLibrary//RedHatDisplay-Medium.ttf
+/Library/Fonts/libreFontLibrary//RedHatDisplay-MediumItalic.ttf
+/Library/Fonts/libreFontLibrary//RedHatDisplay-Regular.ttf
 /Library/Fonts/libreFontLibrary//savate-italique.otf
 /Library/Fonts/libreFontLibrary//savate-regular.otf
 /Library/Fonts/libreFontLibrary//Savate-Serif.otf
