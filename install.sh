@@ -1,7 +1,10 @@
 #!/bin/sh
 # Install every fetched family on this machine.
 #
-#   ./install.sh             copy the fonts from Families/ into place
+#   ./install.sh             copy the fonts in install-list.txt into place —
+#                            variable fonts first, statics only where no
+#                            variable font covers them
+#   ./install.sh --all       every font in Families/, statics included
 #   ./install.sh --dry-run   list what would be copied
 #   ./install.sh --remove    take out everything this script installed
 #
@@ -38,7 +41,11 @@ mkdir -p "$dest"
 touch "$record"
 new=$(mktemp); copied=0; same=0; skipped=0
 
-find "$here/Families" -type f \( -iname '*.otf' -o -iname '*.ttf' \) > "$new.list"
+if [ "$mode" = "--all" ] || [ ! -f "$here/install-list.txt" ]; then
+  find "$here/Families" -type f \( -iname '*.otf' -o -iname '*.ttf' \) > "$new.list"
+else
+  grep -v '^#' "$here/install-list.txt" | sed "s#^#$here/Families/#" > "$new.list"
+fi
 while IFS= read -r src; do
   name=$(basename "$src")
   if [ -e "$dest/$name" ] && ! grep -qxF "$name" "$record"; then
