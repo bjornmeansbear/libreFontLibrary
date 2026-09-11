@@ -1,0 +1,16 @@
+{
+ "name": "League Gothic",
+ "upstream": "https://github.com/theleagueof/league-gothic",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LeagueGothic-Condensed.otf",
+  "LeagueGothic-CondensedItalic.otf",
+  "LeagueGothic-Italic.otf",
+  "LeagueGothic-Regular.otf"
+ ],
+ "license_files": [
+  "OFL.md"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "name": "Markazitext",
+ "upstream": "https://github.com/BornaIz/markazitext",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "MarkaziText-Bold.otf",
+  "MarkaziText-Medium.otf",
+  "MarkaziText-Regular.otf",
+  "MarkaziText-SemiBold.otf",
+  "MarkaziText[wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

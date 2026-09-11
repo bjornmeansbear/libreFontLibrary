@@ -1,0 +1,22 @@
+{
+ "name": "Geneve 1564",
+ "upstream": "https://github.com/raphink/geneve_1564",
+ "license": "GPL-3.0",
+ "fetched": "2026-09-11",
+ "files": [
+  "EBGaramond-Initials.otf",
+  "EBGaramond-InitialsF1.otf",
+  "EBGaramond-InitialsF2.otf",
+  "EBGaramond08-Italic.otf",
+  "EBGaramond08-Regular.otf",
+  "EBGaramond08-SC.otf",
+  "EBGaramond12-AllSC.otf",
+  "EBGaramond12-Bold.otf",
+  "EBGaramond12-Italic.otf",
+  "EBGaramond12-Regular.otf",
+  "EBGaramond12-SC.otf"
+ ],
+ "license_files": [
+  "LICENSE"
+ ]
+}

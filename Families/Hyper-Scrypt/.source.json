@@ -1,0 +1,15 @@
+{
+ "name": "Hyper Scrypt",
+ "upstream": "https://gitlab.com/StudioTriple/Hyper-Scrypt",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "HyperScrypt.otf",
+  "HyperScrypt-Stencil_web.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Open Sans",
+ "upstream": "https://github.com/googlefonts/opensans",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "OpenSans-Bold.ttf",
+  "OpenSans-BoldItalic.ttf",
+  "OpenSans-CondensedBold.ttf",
+  "OpenSans-CondensedBoldItalic.ttf",
+  "OpenSans-CondensedExtraBold.ttf",
+  "OpenSans-CondensedExtraBoldItalic.ttf",
+  "OpenSans-CondensedItalic.ttf",
+  "OpenSans-CondensedLight.ttf",
+  "OpenSans-CondensedLightItalic.ttf",
+  "OpenSans-CondensedRegular.ttf",
+  "OpenSans-CondensedSemiBold.ttf",
+  "OpenSans-CondensedSemiBoldItalic.ttf",
+  "OpenSans-ExtraBold.ttf",
+  "OpenSans-ExtraBoldItalic.ttf",
+  "OpenSans-Italic.ttf",
+  "OpenSans-Light.ttf",
+  "OpenSans-LightItalic.ttf",
+  "OpenSans-Regular.ttf",
+  "OpenSans-SemiBold.ttf",
+  "OpenSans-SemiBoldItalic.ttf",
+  "OpenSans-Italic[wdth,wght].ttf",
+  "OpenSans[wdth,wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

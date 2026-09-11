@@ -1,0 +1,12 @@
+{
+ "name": "UnifrakturCook",
+ "upstream": "https://fonts.google.com/specimen/UnifrakturCook",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "UnifrakturCook-Bold.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

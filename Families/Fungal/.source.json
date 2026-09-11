@@ -1,0 +1,34 @@
+{
+ "name": "Fungal",
+ "upstream": "https://gitlab.com/velvetyne/fungal",
+ "license": "Bitstream-Vera",
+ "fetched": "2026-09-11",
+ "files": [
+  "FungalVF.ttf",
+  "Fungal-Grow0Thickness500.ttf",
+  "Fungal-Grow1000Thickness1000.ttf",
+  "Fungal-Grow1000Thickness500.ttf",
+  "Fungal-Grow100Thickness1000.ttf",
+  "Fungal-Grow100Thickness500.ttf",
+  "Fungal-Grow200Thickness1000.ttf",
+  "Fungal-Grow200Thickness500.ttf",
+  "Fungal-Grow300Thickness1000.ttf",
+  "Fungal-Grow300Thickness500.ttf",
+  "Fungal-Grow400Thickness1000.ttf",
+  "Fungal-Grow400Thickness500.ttf",
+  "Fungal-Grow500Thickness1000.ttf",
+  "Fungal-Grow500Thickness500.ttf",
+  "Fungal-Grow600Thickness1000.ttf",
+  "Fungal-Grow600Thickness500.ttf",
+  "Fungal-Grow700Thickness1000.ttf",
+  "Fungal-Grow700Thickness500.ttf",
+  "Fungal-Grow800Thickness1000.ttf",
+  "Fungal-Grow800Thickness500.ttf",
+  "Fungal-Grow900Thickness1000.ttf",
+  "Fungal-Grow900Thickness500.ttf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

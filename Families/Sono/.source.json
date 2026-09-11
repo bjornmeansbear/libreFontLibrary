@@ -1,0 +1,26 @@
+{
+ "name": "Sono",
+ "upstream": "https://github.com/sursly/sono",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Sono-Bold.otf",
+  "Sono-ExtraBold.otf",
+  "Sono-ExtraLight.otf",
+  "Sono-Light.otf",
+  "Sono-Medium.otf",
+  "Sono-Regular.otf",
+  "Sono-SemiBold.otf",
+  "SonoSans-Bold.otf",
+  "SonoSans-ExtraBold.otf",
+  "SonoSans-ExtraLight.otf",
+  "SonoSans-Light.otf",
+  "SonoSans-Medium.otf",
+  "SonoSans-Regular.otf",
+  "SonoSans-SemiBold.otf",
+  "Sono[MONO,wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

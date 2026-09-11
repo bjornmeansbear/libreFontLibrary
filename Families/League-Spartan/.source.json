@@ -1,0 +1,21 @@
+{
+ "name": "League Spartan",
+ "upstream": "https://github.com/sursly/league-spartan",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LeagueSpartan-Black.otf",
+  "LeagueSpartan-Bold.otf",
+  "LeagueSpartan-Extrabold.otf",
+  "LeagueSpartan-Extralight.otf",
+  "LeagueSpartan-Light.otf",
+  "LeagueSpartan-Medium.otf",
+  "LeagueSpartan-Regular.otf",
+  "LeagueSpartan-Semibold.otf",
+  "LeagueSpartanVariable.ttf"
+ ],
+ "license_files": [
+  "ofl-faq.markdown",
+  "ofl.markdown"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "name": "Kavoon",
+ "upstream": "https://fonts.google.com/specimen/Kavoon",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Kavoon-Regular.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

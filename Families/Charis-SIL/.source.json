@@ -1,0 +1,15 @@
+{
+ "name": "Charis SIL",
+ "upstream": "https://fonts.google.com/specimen/Charis+SIL",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "CharisSIL-Bold.ttf",
+  "CharisSIL-BoldItalic.ttf",
+  "CharisSIL-Italic.ttf",
+  "CharisSIL-Regular.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

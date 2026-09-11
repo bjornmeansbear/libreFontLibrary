@@ -1,0 +1,31 @@
+{
+ "name": "Petrona",
+ "upstream": "https://github.com/RingoSeeber/Petrona",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Petrona-Black.otf",
+  "Petrona-BlackItalic.otf",
+  "Petrona-Bold.otf",
+  "Petrona-BoldItalic.otf",
+  "Petrona-Extrabold.otf",
+  "Petrona-ExtraboldItalic.otf",
+  "Petrona-Extralight.otf",
+  "Petrona-ExtralightItalic.otf",
+  "Petrona-Italic.otf",
+  "Petrona-Light.otf",
+  "Petrona-LightItalic.otf",
+  "Petrona-Medium.otf",
+  "Petrona-MediumItalic.otf",
+  "Petrona-Regular.otf",
+  "Petrona-Semibold.otf",
+  "Petrona-SemiboldItalic.otf",
+  "Petrona-Thin.otf",
+  "Petrona-ThinItalic.otf",
+  "Petrona-Italic[wght].ttf",
+  "Petrona[wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

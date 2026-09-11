@@ -1,0 +1,15 @@
+{
+ "name": "Outward",
+ "upstream": "https://github.com/raoulaudouin/Outward",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "outward-block.ttf",
+  "outward-borders.ttf",
+  "outward-round.ttf"
+ ],
+ "license_files": [
+  "license.txt"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "name": "Intel One Mono",
+ "upstream": "https://github.com/intel/intel-one-mono",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "IntelOneMono-Bold.otf",
+  "IntelOneMono-BoldItalic.otf",
+  "IntelOneMono-Italic.otf",
+  "IntelOneMono-Light.otf",
+  "IntelOneMono-LightItalic.otf",
+  "IntelOneMono-Medium.otf",
+  "IntelOneMono-MediumItalic.otf",
+  "IntelOneMono-Regular.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

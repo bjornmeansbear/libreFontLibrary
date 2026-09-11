@@ -1,0 +1,13 @@
+{
+ "name": "Runic",
+ "upstream": "https://github.com/velvetyne/runic",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Runic_Sans_Inline.otf",
+  "Runic_Sans_Plain.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

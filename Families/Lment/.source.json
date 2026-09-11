@@ -1,0 +1,12 @@
+{
+ "name": "Lment",
+ "upstream": "https://github.com/velvetyne/Lment_",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Lment-v02.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

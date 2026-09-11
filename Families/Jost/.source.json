@@ -1,0 +1,32 @@
+{
+ "name": "Jost",
+ "upstream": "https://github.com/indestructible-type/Jost",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Jost-VF.ttf",
+  "Jost-100-Hairline.otf",
+  "Jost-100-HairlineItalic.otf",
+  "Jost-200-Thin.otf",
+  "Jost-200-ThinItalic.otf",
+  "Jost-300-Light.otf",
+  "Jost-300-LightItalic.otf",
+  "Jost-400-Book.otf",
+  "Jost-400-BookItalic.otf",
+  "Jost-500-Medium.otf",
+  "Jost-500-MediumItalic.otf",
+  "Jost-600-Semi.otf",
+  "Jost-600-SemiItalic.otf",
+  "Jost-700-Bold.otf",
+  "Jost-700-BoldItalic.otf",
+  "Jost-800-Hevy.otf",
+  "Jost-800-HevyItalic.otf",
+  "Jost-900-Black.otf",
+  "Jost-900-BlackItalic.otf",
+  "Jost-800-Heavy.ttf",
+  "Jost-800-HeavyItalic.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

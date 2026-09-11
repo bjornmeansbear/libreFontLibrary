@@ -1,0 +1,13 @@
+{
+ "name": "Sudo",
+ "upstream": "https://github.com/jenskutilek/sudo-font",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "SudoUIVariable.ttf",
+  "SudoVariable.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

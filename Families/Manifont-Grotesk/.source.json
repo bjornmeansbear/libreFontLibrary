@@ -1,0 +1,16 @@
+{
+ "name": "Manifont Grotesk",
+ "upstream": "https://github.com/Interstices-/Manifont-Grotesk",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "ManifontGroteskBold.otf",
+  "ManifontGroteskBoldItalic.otf",
+  "ManifontGroteskBook.otf",
+  "ManifontGroteskBookDot.otf",
+  "ManifontGroteskBookItalic.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

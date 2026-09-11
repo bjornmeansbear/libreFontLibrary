@@ -1,0 +1,33 @@
+{
+ "name": "Libre Franklin",
+ "upstream": "https://github.com/impallari/Libre-Franklin",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LibreFranklin-Italic[wght].ttf",
+  "LibreFranklin[wght].ttf",
+  "LibreFranklinGX-Italics-v4015.ttf",
+  "LibreFranklinGX-Romans-v4015.ttf",
+  "LibreFranklin-Black.otf",
+  "LibreFranklin-BlackItalic.otf",
+  "LibreFranklin-Bold.otf",
+  "LibreFranklin-BoldItalic.otf",
+  "LibreFranklin-ExtraBold.otf",
+  "LibreFranklin-ExtraBoldItalic.otf",
+  "LibreFranklin-ExtraLight.otf",
+  "LibreFranklin-ExtraLightItalic.otf",
+  "LibreFranklin-Italic.otf",
+  "LibreFranklin-Light.otf",
+  "LibreFranklin-LightItalic.otf",
+  "LibreFranklin-Medium.otf",
+  "LibreFranklin-MediumItalic.otf",
+  "LibreFranklin-Regular.otf",
+  "LibreFranklin-SemiBold.otf",
+  "LibreFranklin-SemiBoldItalic.otf",
+  "LibreFranklin-Thin.otf",
+  "LibreFranklin-ThinItalic.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

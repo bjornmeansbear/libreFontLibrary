@@ -1,0 +1,14 @@
+{
+ "name": "Libre Caslon Text",
+ "upstream": "https://github.com/impallari/Libre-Caslon-Text",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LibreCaslonText-Bold.otf",
+  "LibreCaslonText-Italic.otf",
+  "LibreCaslonText-Regular.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

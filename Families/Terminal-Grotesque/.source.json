@@ -1,0 +1,14 @@
+{
+ "name": "Terminal Grotesque",
+ "upstream": "https://gitlab.com/raphaelbastide/Terminal-Grotesque",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "terminal-grotesque.otf",
+  "terminal-grotesque_open.otf"
+ ],
+ "license_files": [
+  "LICENSE.md"
+ ]
+}

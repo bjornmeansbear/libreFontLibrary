@@ -1,0 +1,17 @@
+{
+ "name": "Compagnon",
+ "upstream": "https://gitlab.com/velvetyne/compagnon",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Compagnon-Bold.otf",
+  "Compagnon-Light.otf",
+  "Compagnon-LightItalic.otf",
+  "Compagnon-Medium.otf",
+  "Compagnon-Roman.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

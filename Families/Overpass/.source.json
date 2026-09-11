@@ -1,0 +1,37 @@
+{
+ "name": "Overpass",
+ "upstream": "https://github.com/RedHatOfficial/Overpass",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Overpass-Black.otf",
+  "Overpass-BlackItalic.otf",
+  "Overpass-Bold.otf",
+  "Overpass-BoldItalic.otf",
+  "Overpass-ExtraBold.otf",
+  "Overpass-ExtraBoldItalic.otf",
+  "Overpass-ExtraLight.otf",
+  "Overpass-ExtraLightItalic.otf",
+  "Overpass-Italic.otf",
+  "Overpass-Light.otf",
+  "Overpass-LightItalic.otf",
+  "Overpass-Medium.otf",
+  "Overpass-MediumItalic.otf",
+  "Overpass-Regular.otf",
+  "Overpass-SemiBold.otf",
+  "Overpass-SemiBoldItalic.otf",
+  "Overpass-Thin.otf",
+  "Overpass-ThinItalic.otf",
+  "OverpassMono-Bold.otf",
+  "OverpassMono-Light.otf",
+  "OverpassMono-Medium.otf",
+  "OverpassMono-Regular.otf",
+  "OverpassMono-SemiBold.otf",
+  "Overpass-Italic[wght].ttf",
+  "Overpass[wght].ttf",
+  "OverpassMono[wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

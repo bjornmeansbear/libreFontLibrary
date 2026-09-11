@@ -1,0 +1,21 @@
+{
+ "name": "Ubuntu",
+ "upstream": "https://fonts.google.com/specimen/Ubuntu",
+ "license": "UFL-1.0",
+ "license_file_reads_as": "UFL-1.0",
+ "fetched": "2026-09-11",
+ "files": [
+  "Ubuntu-Bold.ttf",
+  "Ubuntu-BoldItalic.ttf",
+  "Ubuntu-Italic.ttf",
+  "Ubuntu-Light.ttf",
+  "Ubuntu-LightItalic.ttf",
+  "Ubuntu-Medium.ttf",
+  "Ubuntu-MediumItalic.ttf",
+  "Ubuntu-Regular.ttf"
+ ],
+ "license_files": [
+  "UFL.txt",
+  "LICENCE.txt"
+ ]
+}

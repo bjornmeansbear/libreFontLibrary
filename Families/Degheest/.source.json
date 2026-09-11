@@ -1,0 +1,31 @@
+{
+ "name": "Degheest",
+ "upstream": "https://gitlab.com/Eugenie-B/degheest-types",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Abordage-Regular.otf",
+  "Basalte-Fond.otf",
+  "Basalte-Multicolor.otf",
+  "Basalte-Volume.otf",
+  "Director-Light.otf",
+  "Director-Regular.otf",
+  "Director-bold.otf",
+  "Equateur-Regular.otf",
+  "FT88-Bold.otf",
+  "FT88-Expanded.otf",
+  "FT88-Gothique.otf",
+  "FT88-Italic.otf",
+  "FT88-Regular.otf",
+  "FT88-School.otf",
+  "FT88-Serif.otf",
+  "Latitude-Regular.otf",
+  "Louise-Regular.otf",
+  "Director-Variable.ttf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "License SIL OFL.txt"
+ ]
+}

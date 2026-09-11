@@ -1,0 +1,32 @@
+{
+ "name": "Piazzolla",
+ "upstream": "https://github.com/huertatipografica/piazzolla",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Piazzolla-Black.otf",
+  "Piazzolla-BlackItalic.otf",
+  "Piazzolla-Bold.otf",
+  "Piazzolla-BoldItalic.otf",
+  "Piazzolla-ExtraBold.otf",
+  "Piazzolla-ExtraBoldItalic.otf",
+  "Piazzolla-ExtraLight.otf",
+  "Piazzolla-ExtraLightItalic.otf",
+  "Piazzolla-Italic.otf",
+  "Piazzolla-Light.otf",
+  "Piazzolla-LightItalic.otf",
+  "Piazzolla-Medium.otf",
+  "Piazzolla-MediumItalic.otf",
+  "Piazzolla-Regular.otf",
+  "Piazzolla-SemiBold.otf",
+  "Piazzolla-SemiBoldItalic.otf",
+  "Piazzolla-Thin.otf",
+  "Piazzolla-ThinItalic.otf",
+  "Piazzolla-Italic[opsz,wght].ttf",
+  "Piazzolla[opsz,wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

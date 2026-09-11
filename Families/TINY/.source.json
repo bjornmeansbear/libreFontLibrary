@@ -1,0 +1,28 @@
+{
+ "name": "TINY",
+ "upstream": "https://github.com/jckfa/tinyfonts",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "TINY5x3-100.otf",
+  "TINY5x3-120.otf",
+  "TINY5x3-140.otf",
+  "TINY5x3-160.otf",
+  "TINY5x3-180.otf",
+  "TINY5x3-20.otf",
+  "TINY5x3-200.otf",
+  "TINY5x3-220.otf",
+  "TINY5x3-240.otf",
+  "TINY5x3-260.otf",
+  "TINY5x3-280.otf",
+  "TINY5x3-300.otf",
+  "TINY5x3-40.otf",
+  "TINY5x3-60.otf",
+  "TINY5x3-80.otf",
+  "TINY5x3GX.ttf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

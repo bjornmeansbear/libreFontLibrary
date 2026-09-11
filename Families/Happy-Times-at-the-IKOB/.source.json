@@ -1,0 +1,14 @@
+{
+ "name": "Happy-Times-at-the-IKOB",
+ "upstream": "https://gitlab.com/velvetyne/Happy-Times-at-the-IKOB",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "happy-times-NG_bold_master.otf",
+  "happy-times-NG_italic_master.otf",
+  "happy-times-NG_regular_master.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

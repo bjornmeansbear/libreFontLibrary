@@ -1,0 +1,2 @@
+Authors :
+Joshua Haymann, Eudoxie Mégarus, Mélanie Imbert, Charlie le Maignan, Bettina Comte, Elise Wojnarowski, Marouchka Payen, Romain Pereira, Clément Baudouin, Zoé Klein, Solène Voegel, Jade Breuvart, Lola Li, Pierre-Baptiste Harrivelle, Matteo Rizzi, Philippe Bucamp, Yann Linguinou, Christophe Le Nouveau, Florian Fromager, Louise Robert, Jessica Simard, Anthony Villechenoux, Julien Mougnon, Julia Monégier, Kelly Henriques, Théo Miller, Océane Juvin, Anton Moglia, Ariel Martín Pérez.

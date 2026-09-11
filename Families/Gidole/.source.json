@@ -1,0 +1,14 @@
+{
+ "name": "Gidole",
+ "upstream": "https://github.com/larsenwork/Gidole",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Gidole-Regular.ttf",
+  "Gidolinya-Regular.otf"
+ ],
+ "license_files": [
+  "License.txt"
+ ]
+}

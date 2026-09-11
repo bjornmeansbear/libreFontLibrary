@@ -1,0 +1,13 @@
+{
+ "name": "Quattrocento",
+ "upstream": "https://fonts.google.com/specimen/Quattrocento",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Quattrocento-Bold.ttf",
+  "Quattrocento-Regular.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

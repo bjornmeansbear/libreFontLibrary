@@ -1,0 +1,20 @@
+{
+ "name": "Lineal",
+ "upstream": "https://gitlab.com/velvetyne/lineal",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Lineal-Black.otf",
+  "Lineal-Bold.otf",
+  "Lineal-Heavy.otf",
+  "Lineal-Light.otf",
+  "Lineal-Medium.otf",
+  "Lineal-Regular.otf",
+  "Lineal-Thin.otf",
+  "LinealVF.ttf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

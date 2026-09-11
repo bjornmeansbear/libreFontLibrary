@@ -1,0 +1,37 @@
+{
+ "name": "Victor Mono",
+ "upstream": "https://github.com/rubjo/victor-mono",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "VictorMono-Bold.otf",
+  "VictorMono-Oblique.otf",
+  "VictorMono-Regular.otf",
+  "VictorMono-BoldItalic.otf",
+  "VictorMono-BoldOblique.otf",
+  "VictorMono-ExtraLight.otf",
+  "VictorMono-ExtraLightItalic.otf",
+  "VictorMono-ExtraLightOblique.otf",
+  "VictorMono-Italic.otf",
+  "VictorMono-Light.otf",
+  "VictorMono-LightItalic.otf",
+  "VictorMono-LightOblique.otf",
+  "VictorMono-Medium.otf",
+  "VictorMono-MediumItalic.otf",
+  "VictorMono-MediumOblique.otf",
+  "VictorMono-SemiBold.otf",
+  "VictorMono-SemiBoldItalic.otf",
+  "VictorMono-SemiBoldOblique.otf",
+  "VictorMono-Thin.otf",
+  "VictorMono-ThinItalic.otf",
+  "VictorMono-ThinOblique.otf",
+  "VictorMonoVariable.ttf",
+  "VictorMonoVariableItalic.ttf",
+  "VictorMonoVariableOblique.ttf"
+ ],
+ "license_files": [
+  "LICENSE.txt",
+  "LICENSE"
+ ]
+}

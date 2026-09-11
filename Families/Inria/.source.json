@@ -1,0 +1,23 @@
+{
+ "name": "Inria",
+ "upstream": "https://github.com/BlackFoundry/InriaFonts",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "InriaSans-Bold.otf",
+  "InriaSans-BoldItalic.otf",
+  "InriaSans-Italic.otf",
+  "InriaSans-Light.otf",
+  "InriaSans-LightItalic.otf",
+  "InriaSans-Regular.otf",
+  "InriaSerif-Bold.otf",
+  "InriaSerif-BoldItalic.otf",
+  "InriaSerif-Italic.otf",
+  "InriaSerif-Light.otf",
+  "InriaSerif-LightItalic.otf",
+  "InriaSerif-Regular.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

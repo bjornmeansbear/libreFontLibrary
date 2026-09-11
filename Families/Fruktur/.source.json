@@ -1,0 +1,13 @@
+{
+ "name": "Fruktur",
+ "upstream": "https://fonts.google.com/specimen/Fruktur",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Fruktur-Italic.ttf",
+  "Fruktur-Regular.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

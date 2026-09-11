@@ -1,0 +1,16 @@
+{
+ "name": "Tillana",
+ "upstream": "https://fonts.google.com/specimen/Tillana",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Tillana-Bold.ttf",
+  "Tillana-ExtraBold.ttf",
+  "Tillana-Medium.ttf",
+  "Tillana-Regular.ttf",
+  "Tillana-SemiBold.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

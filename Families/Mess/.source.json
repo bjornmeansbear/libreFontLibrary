@@ -1,0 +1,13 @@
+{
+ "name": "Mess",
+ "upstream": "https://gitlab.com/velvetyne/Mess",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Mess.otf"
+ ],
+ "license_files": [
+  "copyright.md",
+  "licence.txt"
+ ]
+}

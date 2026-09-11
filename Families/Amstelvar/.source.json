@@ -1,0 +1,14 @@
+{
+ "name": "Amstelvar",
+ "upstream": "https://github.com/TypeNetwork/Amstelvar",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Amstelvar-Italic[GRAD,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,wdth,wght,opsz].ttf",
+  "Amstelvar-Roman[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,wdth,wght,opsz].ttf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "OFL.txt"
+ ]
+}

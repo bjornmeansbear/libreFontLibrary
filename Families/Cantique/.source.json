@@ -1,0 +1,13 @@
+{
+ "name": "Cantique",
+ "upstream": "https://gitlab.com/velvetyne/cantique",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Cantique-Normal.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

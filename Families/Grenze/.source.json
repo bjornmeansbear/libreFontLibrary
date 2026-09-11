@@ -1,0 +1,32 @@
+{
+ "name": "Grenze",
+ "upstream": "https://github.com/Omnibus-Type/Grenze",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Grenze-Black.otf",
+  "Grenze-BlackItalic.otf",
+  "Grenze-Bold.otf",
+  "Grenze-BoldItalic.otf",
+  "Grenze-ExtraBold.otf",
+  "Grenze-ExtraBoldItalic.otf",
+  "Grenze-ExtraLight.otf",
+  "Grenze-ExtraLightItalic.otf",
+  "Grenze-Italic.otf",
+  "Grenze-Light.otf",
+  "Grenze-LightItalic.otf",
+  "Grenze-Medium.otf",
+  "Grenze-MediumItalic.otf",
+  "Grenze-Regular.otf",
+  "Grenze-SemiBold.otf",
+  "Grenze-SemiBoldItalic.otf",
+  "Grenze-Thin.otf",
+  "Grenze-ThinItalic.otf",
+  "Grenze-Italic[wght].ttf",
+  "Grenze[wght].ttf"
+ ],
+ "license_files": [
+  "LICENSE.md",
+  "OFL.txt"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "name": "Pilowlava",
+ "upstream": "https://gitlab.com/StudioTriple/pilowlava",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Pilowlava-Atome.otf",
+  "Pilowlava-Regular.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "License.txt"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "name": "Grotesk",
+ "upstream": "https://gitlab.com/velvetyne/grotesk",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Grotesk-01Extrafin.otf",
+  "Grotesk-02Mince.otf",
+  "Grotesk-03Regular.otf",
+  "Grotesk-04Gras.otf",
+  "GroteskVF.ttf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

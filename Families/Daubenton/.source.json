@@ -1,0 +1,13 @@
+{
+ "name": "Daubenton",
+ "upstream": "https://github.com/velvetyne/Daubenton",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Daubenton.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

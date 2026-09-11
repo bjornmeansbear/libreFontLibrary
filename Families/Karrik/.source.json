@@ -1,0 +1,14 @@
+{
+ "name": "Karrik",
+ "upstream": "https://gitlab.com/phantomfoundry/karrik_fonts",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Karrik-Italic.otf",
+  "Karrik-Regular.otf"
+ ],
+ "license_files": [
+  "LICENCE.txt"
+ ]
+}

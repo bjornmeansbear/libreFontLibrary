@@ -1,0 +1,12 @@
+{
+ "name": "Courrrier",
+ "upstream": "https://github.com/velvetyne/courrrier",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Courrrier.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

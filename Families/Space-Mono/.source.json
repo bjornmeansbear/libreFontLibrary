@@ -1,0 +1,16 @@
+{
+ "name": "Space Mono",
+ "upstream": "https://github.com/googlefonts/spacemono",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "SpaceMono-Bold.otf",
+  "SpaceMono-BoldItalic.otf",
+  "SpaceMono-Italic.otf",
+  "SpaceMono-Regular.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt",
+  "OFL.txt"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Grobe Deutschmeister",
+ "upstream": "https://fontlibrary.org/en/font/grobe-deutschmeister",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "grobe-deutschmeister.ttf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

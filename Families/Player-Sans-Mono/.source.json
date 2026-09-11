@@ -1,0 +1,19 @@
+{
+ "name": "Player Sans Mono",
+ "upstream": "https://github.com/justinpenner/player-sans-mono",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "PlayerSansMono8x13-Bold.otf",
+  "PlayerSansMono8x13-Classic.otf",
+  "PlayerSansMono8x13-Italic.otf",
+  "PlayerSansMono8x13-Light.otf",
+  "PlayerSansMono8x8-Bold.otf",
+  "PlayerSansMono8x8-Classic.otf",
+  "PlayerSansMono8x8-Italic.otf",
+  "PlayerSansMono8x8-Light.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

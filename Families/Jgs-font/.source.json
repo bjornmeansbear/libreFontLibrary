@@ -1,0 +1,15 @@
+{
+ "name": "Jgs font",
+ "upstream": "https://gitlab.com/velvetyne/jgs",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "jgs5.ttf",
+  "jgs7.ttf",
+  "jgs9.ttf",
+  "jgs_Font.ttf"
+ ],
+ "license_files": [
+  "LICENSE"
+ ]
+}

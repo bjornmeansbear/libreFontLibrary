@@ -1,0 +1,17 @@
+{
+ "name": "Spleen",
+ "upstream": "https://github.com/fcambus/spleen",
+ "license": "BSD-2-Clause",
+ "license_file_reads_as": "BSD-2-Clause",
+ "fetched": "2026-09-11",
+ "files": [
+  "spleen-12x24.otf",
+  "spleen-16x32.otf",
+  "spleen-32x64.otf",
+  "spleen-6x12.otf",
+  "spleen-8x16.otf"
+ ],
+ "license_files": [
+  "LICENSE"
+ ]
+}

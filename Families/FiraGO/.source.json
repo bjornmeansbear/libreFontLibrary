@@ -1,0 +1,41 @@
+{
+ "name": "FiraGO",
+ "upstream": "https://github.com/bBoxType/FiraGO",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "FiraGO-BoldItalic.otf",
+  "FiraGO-BookItalic.otf",
+  "FiraGO-EightItalic.otf",
+  "FiraGO-ExtraBoldItalic.otf",
+  "FiraGO-ExtraLightItalic.otf",
+  "FiraGO-FourItalic.otf",
+  "FiraGO-HairItalic.otf",
+  "FiraGO-HeavyItalic.otf",
+  "FiraGO-Italic.otf",
+  "FiraGO-LightItalic.otf",
+  "FiraGO-MediumItalic.otf",
+  "FiraGO-SemiBoldItalic.otf",
+  "FiraGO-ThinItalic.otf",
+  "FiraGO-TwoItalic.otf",
+  "FiraGO-UltraLightItalic.otf",
+  "FiraGO-Bold.otf",
+  "FiraGO-Book.otf",
+  "FiraGO-Eight.otf",
+  "FiraGO-ExtraBold.otf",
+  "FiraGO-ExtraLight.otf",
+  "FiraGO-Four.otf",
+  "FiraGO-Hair.otf",
+  "FiraGO-Heavy.otf",
+  "FiraGO-Light.otf",
+  "FiraGO-Medium.otf",
+  "FiraGO-Regular.otf",
+  "FiraGO-SemiBold.otf",
+  "FiraGO-Thin.otf",
+  "FiraGO-Two.otf",
+  "FiraGO-UltraLight.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

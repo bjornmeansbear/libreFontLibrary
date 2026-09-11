@@ -1,0 +1,32 @@
+{
+ "name": "Urbanist",
+ "upstream": "https://github.com/coreyhu/Urbanist",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Urbanist-Black.otf",
+  "Urbanist-BlackItalic.otf",
+  "Urbanist-Bold.otf",
+  "Urbanist-BoldItalic.otf",
+  "Urbanist-ExtraBold.otf",
+  "Urbanist-ExtraBoldItalic.otf",
+  "Urbanist-ExtraLight.otf",
+  "Urbanist-ExtraLightItalic.otf",
+  "Urbanist-Italic.otf",
+  "Urbanist-Light.otf",
+  "Urbanist-LightItalic.otf",
+  "Urbanist-Medium.otf",
+  "Urbanist-MediumItalic.otf",
+  "Urbanist-Regular.otf",
+  "Urbanist-SemiBold.otf",
+  "Urbanist-SemiBoldItalic.otf",
+  "Urbanist-Thin.otf",
+  "Urbanist-ThinItalic.otf",
+  "Urbanist-Italic[wght].ttf",
+  "Urbanist[ital,wght].ttf",
+  "Urbanist[wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

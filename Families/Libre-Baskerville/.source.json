@@ -1,0 +1,21 @@
+{
+ "name": "Libre Baskerville",
+ "upstream": "https://github.com/impallari/Libre-Baskerville",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LibreBaskerville-BoldItalic.otf",
+  "LibreBaskerville-Medium.otf",
+  "LibreBaskerville-MediumItalic.otf",
+  "LibreBaskerville-SemiBold.otf",
+  "LibreBaskerville-SemiBoldItalic.otf",
+  "LibreBaskerville-Italic[wght].ttf",
+  "LibreBaskerville[wght].ttf",
+  "LibreBaskerville-Bold.otf",
+  "LibreBaskerville-Italic.otf",
+  "LibreBaskerville-Regular.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

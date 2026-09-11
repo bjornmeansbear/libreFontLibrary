@@ -1,0 +1,25 @@
+{
+ "name": "Libre Bodoni",
+ "upstream": "https://github.com/impallari/Libre-Bodoni",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LibreBodoni-Bold.otf",
+  "LibreBodoni-BoldItalic.otf",
+  "LibreBodoni-Italic.otf",
+  "LibreBodoni-Regular.otf",
+  "LibreBodoniv2000-Bold.otf",
+  "LibreBodoniv2000-BoldItalic.otf",
+  "LibreBodoniv2000-Italic.otf",
+  "LibreBodoniv2000-Regular.otf",
+  "LibreBodoniv2002-Bold.otf",
+  "LibreBodoniv2002-BoldItalic.otf",
+  "LibreBodoniv2002-Italic.otf",
+  "LibreBodoniv2002-Medium.otf",
+  "LibreBodoniv2002-MediumItalic.otf",
+  "LibreBodoniv2002-Regular.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

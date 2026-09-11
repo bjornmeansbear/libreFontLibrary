@@ -1,0 +1,12 @@
+{
+ "name": "BioRhyme",
+ "upstream": "https://fonts.google.com/specimen/BioRhyme",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "BioRhyme[wdth,wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "name": "Sligoil",
+ "upstream": "https://gitlab.com/velvetyne/sligoil",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Sligoil-Micro.otf",
+  "Sligoil-MicroBold.otf",
+  "Sligoil-MicroMedium.otf",
+  "SligoilVF.ttf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

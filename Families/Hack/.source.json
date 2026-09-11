@@ -1,0 +1,15 @@
+{
+ "name": "Hack",
+ "upstream": "https://github.com/source-foundry/Hack",
+ "license": "Bitstream-Vera",
+ "fetched": "2026-09-11",
+ "files": [
+  "Hack-Bold.ttf",
+  "Hack-BoldItalic.ttf",
+  "Hack-Italic.ttf",
+  "Hack-Regular.ttf"
+ ],
+ "license_files": [
+  "LICENSE.md"
+ ]
+}

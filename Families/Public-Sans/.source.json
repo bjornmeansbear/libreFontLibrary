@@ -1,0 +1,32 @@
+{
+ "name": "Public Sans",
+ "upstream": "https://github.com/uswds/public-sans",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "PublicSans-Black.otf",
+  "PublicSans-BlackItalic.otf",
+  "PublicSans-Bold.otf",
+  "PublicSans-BoldItalic.otf",
+  "PublicSans-ExtraBold.otf",
+  "PublicSans-ExtraBoldItalic.otf",
+  "PublicSans-ExtraLight.otf",
+  "PublicSans-ExtraLightItalic.otf",
+  "PublicSans-Italic.otf",
+  "PublicSans-Light.otf",
+  "PublicSans-LightItalic.otf",
+  "PublicSans-Medium.otf",
+  "PublicSans-MediumItalic.otf",
+  "PublicSans-Regular.otf",
+  "PublicSans-SemiBold.otf",
+  "PublicSans-SemiBoldItalic.otf",
+  "PublicSans-Thin.otf",
+  "PublicSans-ThinItalic.otf",
+  "PublicSans-Italic[wght].ttf",
+  "PublicSans[wght].ttf"
+ ],
+ "license_files": [
+  "LICENSE.md",
+  "OFL.txt"
+ ]
+}

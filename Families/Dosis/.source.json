@@ -1,0 +1,39 @@
+{
+ "name": "Dosis",
+ "upstream": "https://github.com/impallari/Dosis",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Dosis-200 ExtraLight-Original.otf",
+  "Dosis-300 Light-Original.otf",
+  "Dosis-400 Regular-Original.otf",
+  "Dosis-500 Medium-Original.otf",
+  "Dosis-600 SemiBold-Original.otf",
+  "Dosis-700 Bold-Original.otf",
+  "Dosis-800 ExtraBold-Original.otf",
+  "Dosis-Bold.ttf",
+  "Dosis-Book.ttf",
+  "Dosis-ExtraBold.ttf",
+  "Dosis-ExtraLight.ttf",
+  "Dosis-Light.ttf",
+  "Dosis-Medium.ttf",
+  "Dosis-SemiBold.ttf",
+  "Dosis-v2007-200ExtraLight.otf",
+  "Dosis-v2007-300Light.otf",
+  "Dosis-v2007-400Regular.otf",
+  "Dosis-v2007-500Medium.otf",
+  "Dosis-v2007-600SemiBold.otf",
+  "Dosis-v2007-700Bold.otf",
+  "Dosis-v2007-800ExtraBold.otf",
+  "Dosis-v2031b-200ExtraLight.otf",
+  "Dosis-v2031b-300Light.otf",
+  "Dosis-v2031b-400Regular.otf",
+  "Dosis-v2031b-500Medium.otf",
+  "Dosis-v2031b-600SemiBold.otf",
+  "Dosis-v2031b-700Bold.otf",
+  "Dosis-v2031b-800ExtraBold.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

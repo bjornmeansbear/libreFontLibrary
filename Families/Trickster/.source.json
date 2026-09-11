@@ -1,0 +1,12 @@
+{
+ "name": "Trickster",
+ "upstream": "https://gitlab.com/velvetyne/Trickster",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Trickster-Reg.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "name": "Libre Caslon Display",
+ "upstream": "https://github.com/impallari/Libre-Caslon-Display",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LibreCaslonDisplay-Regular.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

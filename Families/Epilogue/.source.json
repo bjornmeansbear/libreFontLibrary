@@ -1,0 +1,30 @@
+{
+ "name": "Epilogue",
+ "upstream": "https://github.com/Etcetera-Type-Co/epilogue",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Epilogue-Black.otf",
+  "Epilogue-BlackItalic.otf",
+  "Epilogue-Bold.otf",
+  "Epilogue-BoldItalic.otf",
+  "Epilogue-ExtraBold.otf",
+  "Epilogue-ExtraBoldItalic.otf",
+  "Epilogue-ExtraLight.otf",
+  "Epilogue-ExtraLightItalic.otf",
+  "Epilogue-Italic.otf",
+  "Epilogue-Light.otf",
+  "Epilogue-LightItalic.otf",
+  "Epilogue-Medium.otf",
+  "Epilogue-MediumItalic.otf",
+  "Epilogue-Regular.otf",
+  "Epilogue-SemiBold.otf",
+  "Epilogue-SemiBoldItalic.otf",
+  "Epilogue-Thin.otf",
+  "Epilogue-ThinItalic.otf",
+  "Epilogue[slnt,wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

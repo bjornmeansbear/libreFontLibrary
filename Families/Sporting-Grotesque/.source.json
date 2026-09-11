@@ -1,0 +1,14 @@
+{
+ "name": "Sporting-Grotesque",
+ "upstream": "https://gitlab.com/velvetyne/Sporting-Grotesque",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "SportingGrotesque-Bold.otf",
+  "SportingGrotesque-Regular.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

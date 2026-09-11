@@ -1,0 +1,32 @@
+{
+ "name": "Libre Clarendon",
+ "upstream": "https://github.com/impallari/Libre-Clarendon",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "LibreClarendonCondensed-136Bold v0056.otf",
+  "LibreClarendonCondensed-176Black v0056.otf",
+  "LibreClarendonCondensed-40Light v0056.otf",
+  "LibreClarendonCondensed-62Regular v0056.otf",
+  "LibreClarendonCondensed-96Medium v0056.otf",
+  "LibreClarendonNarrow-104Medium v0056.otf",
+  "LibreClarendonNarrow-150Bold v0056.otf",
+  "LibreClarendonNarrow-194Black v0056.otf",
+  "LibreClarendonNarrow-42Light v0056.otf",
+  "LibreClarendonNarrow-66Regular v0056.otf",
+  "LibreClarendonNormal-110Medium v0056.otf",
+  "LibreClarendonNormal-162Bold v0056.otf",
+  "LibreClarendonNormal-212Black v0056.otf",
+  "LibreClarendonNormal-42Light v0056.otf",
+  "LibreClarendonNormal-68Regular v0056.otf",
+  "LibreClarendonWide-120Medium v0056.otf",
+  "LibreClarendonWide-176Bold v0056.otf",
+  "LibreClarendonWide-230Black v0056.otf",
+  "LibreClarendonWide-44Light v0056.otf",
+  "LibreClarendonWide-74Regular v0056.otf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

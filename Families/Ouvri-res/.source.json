@@ -1,0 +1,18 @@
+{
+ "name": "Ouvri\u00e8res",
+ "upstream": "https://github.com/laureazz/Ouvrieres",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Ouvrieres-affamees.otf",
+  "Ouvrieres-agricultrices.otf",
+  "Ouvrieres-exploratrices.otf",
+  "Ouvrieres-rassasiees.otf",
+  "Ouvrieres-soldates.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.md"
+ ]
+}

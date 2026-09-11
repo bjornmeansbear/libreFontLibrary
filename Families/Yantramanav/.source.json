@@ -1,0 +1,18 @@
+{
+ "name": "Yantramanav",
+ "upstream": "https://fonts.google.com/specimen/Yantramanav",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Yantramanav-Black.ttf",
+  "Yantramanav-Bold.ttf",
+  "Yantramanav-Light.ttf",
+  "Yantramanav-Medium.ttf",
+  "Yantramanav-Regular.ttf",
+  "Yantramanav-Thin.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

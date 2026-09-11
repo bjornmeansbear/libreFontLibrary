@@ -1,0 +1,15 @@
+{
+ "name": "Victorianna",
+ "upstream": "https://github.com/velvetyne/Victorianna",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "VTF victorianna thin talic.otf",
+  "VTF victorianna thin.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

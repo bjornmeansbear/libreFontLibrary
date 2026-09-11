@@ -1,0 +1,15 @@
+{
+ "name": "Solide Mirage",
+ "upstream": "https://gitlab.com/StudioTriple/Solide-Mirage",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "SolideMirage-Etroit.otf",
+  "SolideMirage-Mono.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

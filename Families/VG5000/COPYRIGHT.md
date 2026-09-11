@@ -1,0 +1,1 @@
+Copyright (c) 2015-2018, Justin Bihan <justin.bihan@gmail.com>

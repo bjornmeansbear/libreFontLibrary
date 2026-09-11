@@ -1,0 +1,23 @@
+{
+ "name": "Gentium",
+ "upstream": "https://software.sil.org/gentium/download",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Gentium-Bold.ttf",
+  "Gentium-BoldItalic.ttf",
+  "Gentium-ExtraBold.ttf",
+  "Gentium-ExtraBoldItalic.ttf",
+  "Gentium-Italic.ttf",
+  "Gentium-Medium.ttf",
+  "Gentium-MediumItalic.ttf",
+  "Gentium-Regular.ttf",
+  "Gentium-SemiBold.ttf",
+  "Gentium-SemiBoldItalic.ttf"
+ ],
+ "license_files": [
+  "OFL-FAQ.txt",
+  "OFL.txt"
+ ]
+}

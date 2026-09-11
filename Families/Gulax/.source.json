@@ -1,0 +1,13 @@
+{
+ "name": "Gulax",
+ "upstream": "https://gitlab.com/velvetyne/Gulax",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Gulax-Regular.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

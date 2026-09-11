@@ -1,0 +1,40 @@
+{
+ "name": "BianZhiDai",
+ "upstream": "https://github.com/sdfggvfvj/bianzhidai-2.0",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "bianzhidai-Base.otf",
+  "bianzhidai-Brush.otf",
+  "bianzhidai-Bubble.otf",
+  "bianzhidai-Cloud.otf",
+  "bianzhidai-Cube.otf",
+  "bianzhidai-Messier.otf",
+  "bianzhidai-Messy.otf",
+  "bianzhidai-Pearl.otf",
+  "bianzhidai-Ring.otf",
+  "bianzhidai-Stitches.otf",
+  "bianzhidai_COLR-back.otf",
+  "bianzhidai_COLR-front.otf",
+  "bianzhidai_COLR-highlight.otf",
+  "bianzhidai_COLR-side.otf",
+  "bianzhidai_COLR-GRAY.otf",
+  "bianzhidai_COLR-RGB.otf",
+  "bianzhidai_COLR-grid.otf",
+  "bianzhidai_noBG-Base.otf",
+  "bianzhidai_noBG-Brush.otf",
+  "bianzhidai_noBG-Bubble.otf",
+  "bianzhidai_noBG-Cloud.otf",
+  "bianzhidai_noBG-Cube.otf",
+  "bianzhidai_noBG-Messier.otf",
+  "bianzhidai_noBG-Messy.otf",
+  "bianzhidai_noBG-Pearl.otf",
+  "bianzhidai_noBG-Ring.otf",
+  "bianzhidai_noBG-Stitches.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.md"
+ ]
+}

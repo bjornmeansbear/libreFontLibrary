@@ -1,0 +1,12 @@
+{
+ "name": "BackOut",
+ "upstream": "https://gitlab.com/velvetyne/backout",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "BackOut.otf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

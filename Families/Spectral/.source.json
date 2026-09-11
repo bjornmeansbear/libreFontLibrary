@@ -1,0 +1,39 @@
+{
+ "name": "Spectral",
+ "upstream": "https://github.com/productiontype/spectral",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "SpectralSC-Bold.otf",
+  "SpectralSC-BoldItalic.otf",
+  "SpectralSC-ExtraBold.otf",
+  "SpectralSC-ExtraBoldItalic.otf",
+  "SpectralSC-ExtraLight.otf",
+  "SpectralSC-ExtraLightItalic.otf",
+  "SpectralSC-Italic.otf",
+  "SpectralSC-Light.otf",
+  "SpectralSC-LightItalic.otf",
+  "SpectralSC-Medium.otf",
+  "SpectralSC-MediumItalic.otf",
+  "SpectralSC-Regular.otf",
+  "SpectralSC-SemiBold.otf",
+  "SpectralSC-SemiBoldItalic.otf",
+  "Spectral-Bold.otf",
+  "Spectral-BoldItalic.otf",
+  "Spectral-ExtraBold.otf",
+  "Spectral-ExtraBoldItalic.otf",
+  "Spectral-ExtraLight.otf",
+  "Spectral-ExtraLightItalic.otf",
+  "Spectral-Italic.otf",
+  "Spectral-Light.otf",
+  "Spectral-LightItalic.otf",
+  "Spectral-Medium.otf",
+  "Spectral-MediumItalic.otf",
+  "Spectral-Regular.otf",
+  "Spectral-SemiBold.otf",
+  "Spectral-SemiBoldItalic.otf"
+ ],
+ "license_files": [
+  "ofl.txt"
+ ]
+}

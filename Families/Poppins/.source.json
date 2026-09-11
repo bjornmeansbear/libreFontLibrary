@@ -1,0 +1,30 @@
+{
+ "name": "Poppins",
+ "upstream": "https://fonts.google.com/specimen/Poppins",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Poppins-Black.ttf",
+  "Poppins-BlackItalic.ttf",
+  "Poppins-Bold.ttf",
+  "Poppins-BoldItalic.ttf",
+  "Poppins-ExtraBold.ttf",
+  "Poppins-ExtraBoldItalic.ttf",
+  "Poppins-ExtraLight.ttf",
+  "Poppins-ExtraLightItalic.ttf",
+  "Poppins-Italic.ttf",
+  "Poppins-Light.ttf",
+  "Poppins-LightItalic.ttf",
+  "Poppins-Medium.ttf",
+  "Poppins-MediumItalic.ttf",
+  "Poppins-Regular.ttf",
+  "Poppins-SemiBold.ttf",
+  "Poppins-SemiBoldItalic.ttf",
+  "Poppins-Thin.ttf",
+  "Poppins-ThinItalic.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

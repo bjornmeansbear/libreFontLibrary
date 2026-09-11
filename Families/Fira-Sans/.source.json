@@ -1,0 +1,29 @@
+{
+ "name": "Fira Sans",
+ "upstream": "https://fonts.google.com/specimen/Fira+Sans",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "FiraSans-Black.ttf",
+  "FiraSans-BlackItalic.ttf",
+  "FiraSans-Bold.ttf",
+  "FiraSans-BoldItalic.ttf",
+  "FiraSans-ExtraBold.ttf",
+  "FiraSans-ExtraBoldItalic.ttf",
+  "FiraSans-ExtraLight.ttf",
+  "FiraSans-ExtraLightItalic.ttf",
+  "FiraSans-Italic.ttf",
+  "FiraSans-Light.ttf",
+  "FiraSans-LightItalic.ttf",
+  "FiraSans-Medium.ttf",
+  "FiraSans-MediumItalic.ttf",
+  "FiraSans-Regular.ttf",
+  "FiraSans-SemiBold.ttf",
+  "FiraSans-SemiBoldItalic.ttf",
+  "FiraSans-Thin.ttf",
+  "FiraSans-ThinItalic.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

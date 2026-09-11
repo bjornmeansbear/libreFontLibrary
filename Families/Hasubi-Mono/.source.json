@@ -1,0 +1,18 @@
+{
+ "name": "Hasubi Mono",
+ "upstream": "https://github.com/eliheuer/hasubi-mono",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "HasubiMono-Black.otf",
+  "HasubiMono-Bold.otf",
+  "HasubiMono-ExtraBold.otf",
+  "HasubiMono-Medium.otf",
+  "HasubiMono-Regular.otf",
+  "HasubiMono-SemiBold.otf",
+  "Hasubi-Mono[wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Hepta Slab",
+ "upstream": "https://github.com/mjlagattuta/Hepta-Slab",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "HeptaSlab-VF.ttf",
+  "HeptaSlabHairline-Regular.ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

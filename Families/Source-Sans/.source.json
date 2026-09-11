@@ -1,0 +1,25 @@
+{
+ "name": "Source Sans",
+ "upstream": "https://github.com/adobe-fonts/source-sans-pro",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "SourceSans3-Black.otf",
+  "SourceSans3-BlackIt.otf",
+  "SourceSans3-Bold.otf",
+  "SourceSans3-BoldIt.otf",
+  "SourceSans3-ExtraLight.otf",
+  "SourceSans3-ExtraLightIt.otf",
+  "SourceSans3-It.otf",
+  "SourceSans3-Light.otf",
+  "SourceSans3-LightIt.otf",
+  "SourceSans3-Medium.otf",
+  "SourceSans3-MediumIt.otf",
+  "SourceSans3-Regular.otf",
+  "SourceSans3-Semibold.otf",
+  "SourceSans3-SemiboldIt.otf"
+ ],
+ "license_files": [
+  "LICENSE.md"
+ ]
+}

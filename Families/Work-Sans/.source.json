@@ -1,0 +1,32 @@
+{
+ "name": "Work Sans",
+ "upstream": "https://github.com/weiweihuanghuang/Work-Sans",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "WorkSans-Black.otf",
+  "WorkSans-BlackItalic.otf",
+  "WorkSans-Bold.otf",
+  "WorkSans-BoldItalic.otf",
+  "WorkSans-ExtraBold.otf",
+  "WorkSans-ExtraBoldItalic.otf",
+  "WorkSans-ExtraLight.otf",
+  "WorkSans-ExtraLightItalic.otf",
+  "WorkSans-Italic.otf",
+  "WorkSans-Light.otf",
+  "WorkSans-LightItalic.otf",
+  "WorkSans-Medium.otf",
+  "WorkSans-MediumItalic.otf",
+  "WorkSans-Regular.otf",
+  "WorkSans-SemiBold.otf",
+  "WorkSans-SemiBoldItalic.otf",
+  "WorkSans-Thin.otf",
+  "WorkSans-ThinItalic.otf",
+  "WorkSans-Italic[wght].ttf",
+  "WorkSans[wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

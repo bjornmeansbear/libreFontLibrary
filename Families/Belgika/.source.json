@@ -1,0 +1,17 @@
+{
+ "name": "Belgika",
+ "upstream": "https://github.com/osp/osp.foundry.belgica-belgika",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Belgika-16th.otf",
+  "Belgika-40th.otf",
+  "Belgika-5th.otf",
+  "Belgika-8th.otf"
+ ],
+ "license_files": [
+  "ofl-faq.txt",
+  "ofl.txt"
+ ]
+}

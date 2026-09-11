@@ -1,0 +1,19 @@
+{
+ "name": "OpenDyslexic",
+ "upstream": "https://github.com/antijingoist/opendyslexic",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "OpenDyslexic-Bold-Italic.otf",
+  "OpenDyslexic-Bold.otf",
+  "OpenDyslexic-BoldItalic.otf",
+  "OpenDyslexic-Italic.otf",
+  "OpenDyslexic-Regular.otf",
+  "nostalgiaelements-Regular.otf",
+  "opendyslexic.otf"
+ ],
+ "license_files": [
+  "OFL-FAQ.txt",
+  "OFL.txt"
+ ]
+}

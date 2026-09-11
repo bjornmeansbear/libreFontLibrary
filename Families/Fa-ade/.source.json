@@ -1,0 +1,16 @@
+{
+ "name": "Fa\u00e7ade",
+ "upstream": "https://gitlab.com/velvetyne/Facade-font",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Facade-Est.otf",
+  "Facade-Ouest.otf",
+  "Facade-Sud-Ouest.otf",
+  "Facade-Sud.otf",
+  "FacadeVF.ttf"
+ ],
+ "license_files": [
+  "LICENSE.txt"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Emotionaltype",
+ "upstream": "https://github.com/boomwooq/emotionaltype",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "emotional-VF.ttf"
+ ],
+ "license_files": [
+  "OFL-FAQ.txt",
+  "OFL.txt"
+ ]
+}

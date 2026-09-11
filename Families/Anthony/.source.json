@@ -1,0 +1,13 @@
+{
+ "name": "Anthony",
+ "upstream": "https://gitlab.com/velvetyne/anthony",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Anthony.otf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}

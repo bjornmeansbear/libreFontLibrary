@@ -1,0 +1,17 @@
+{
+ "name": "Minipax",
+ "upstream": "https://github.com/ronotypo/Minipax",
+ "license": "OFL-1.1",
+ "fetched": "2026-09-11",
+ "files": [
+  "Minipax-Bold.otf",
+  "Minipax-Medium.otf",
+  "Minipax-Regular.otf",
+  "Minipax-SemiBold.otf",
+  "Minipax Variable.ttf"
+ ],
+ "license_files": [
+  "COPYRIGHT.md",
+  "LICENSE.txt"
+ ]
+}
