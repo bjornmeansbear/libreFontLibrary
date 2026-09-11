@@ -1,0 +1,123 @@
+120 to fetch, 0 already fetched, 21 held for license, 51 to fetch by hand
+  ok    Amstelvar                      2 fonts  COPYRIGHT.md, OFL.txt
+  ok    Barlow                        55 fonts  OFL.txt
+  ok    Cormorant                     56 fonts  OFL-FAQ.txt, OFL.txt
+  ok    Fira                          67 fonts  LICENSE
+  FAIL  IBM Plex                     archive over 400 MB — fetch from a release by hand
+  ok    Inria                         12 fonts  OFL.txt
+  FAIL  League Gothic                no .otf/.ttf found in the upstream
+  FAIL  League Mono                  no .otf/.ttf found in the upstream
+  FAIL  Liberation Fonts             no .otf/.ttf found in the upstream
+  ok    Libre Baskerville             10 fonts  OFL.txt
+  ok    Libre Bodoni                  14 fonts  OFL.txt
+  ok    Libre Caslon Display           1 fonts  OFL.txt
+  ok    Libre Caslon Text              3 fonts  OFL.txt
+  ok    Libre Clarendon              260 fonts  OFL.txt
+  ok    Libre Franklin                22 fonts  OFL.txt
+  ok    Open Sans                     22 fonts  OFL.txt
+  ok    Overpass                      26 fonts  OFL.txt
+  FAIL  Poppins                      HTTP Error 404: Not Found
+  ok    Source Code Pro               14 fonts  LICENSE.md
+  ok    Source Sans                   14 fonts  LICENSE.md
+  ok    Source Serif                  60 fonts  LICENSE.md
+  ok    Spectral                      28 fonts  ofl.txt
+  FAIL  3270                         no .otf/.ttf found in the upstream
+  ok    Amdal                          1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Anthony                        1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Atkinson Hyperlegible          4 fonts  OFL.txt
+  ok    BackOut                        1 fonts  LICENSE.txt
+  ok    Basteleur                      2 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    BioRhyme                       1 fonts  OFL.txt
+  ok    Boeticher                      2 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Cantarell                      4 fonts  OFL.txt
+  ok    Cantique                       1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Charis SIL                     4 fonts  OFL.txt
+  ok    Commune Nuit Debout            2 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Compagnon                      5 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Courrrier                      1 fonts  LICENSE.txt
+  ok    Crimson Pro                    2 fonts  OFL.txt
+  ok    Daubenton                      1 fonts  COPYRIGHT.md, LICENSE.txt
+  FAIL  DejaVu                       no .otf/.ttf found in the upstream
+  ok    Dosis                         28 fonts  OFL.txt
+  ok    Emotionaltype                  1 fonts  OFL-FAQ.txt, OFL.txt
+  ok    Epilogue                      19 fonts  OFL.txt
+  ok    Façade                         5 fonts  LICENSE.txt
+  ok    Feroniapi                      1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Fira Sans                     18 fonts  OFL.txt
+  FAIL  FiraCode                     no .otf/.ttf found in the upstream
+  ok    FiraGO                        30 fonts  OFL.txt
+  ok    Flor de ruina                  5 fonts  COPYRIGHT.md, LICENSE.txt, OFL.txt
+  ok    Format 1452                    1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Fruktur                        2 fonts  OFL.txt
+  ok    Fungal                        22 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Geneve 1564                   11 fonts  LICENSE
+  ok    Grenze                        20 fonts  LICENSE.md, OFL.txt
+  ok    Grotesk                        5 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Gulax                          1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Hack                           4 fonts  LICENSE.md
+  ok    Hangul                         2 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Happy-Times-at-the-IKOB        3 fonts  LICENSE.txt
+  ok    Hasubi Mono                    7 fonts  OFL.txt
+  ok    Hepta Slab                     2 fonts  OFL.txt
+  ok    imago-mundi-mei                1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Intel One Mono                 8 fonts  OFL.txt
+  FAIL  Inter                        no .otf/.ttf found in the upstream
+  ok    Interlope                      1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Jgs font                       4 fonts  LICENSE
+  ok    Jost                          21 fonts  OFL.txt
+  ok    Kaeru Kaeru                    1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Kavoon                         1 fonts  OFL.txt
+  ok    Le Murmure                     1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    League Spartan                 9 fonts  ofl-faq.markdown, ofl.markdown
+  ok    Letters                        2 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Lineal                         8 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Lment                          1 fonts  LICENSE.txt
+  ok    Manifont Grotesk               5 fonts  LICENSE.txt
+  ok    Manrope                        1 fonts  OFL.txt
+  ok    Markazitext                    5 fonts  OFL.txt
+  ok    Mess                           1 fonts  copyright.md, licence.txt
+  ok    Minipax                        5 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Montaga                        1 fonts  OFL.txt
+  ok    Mourier                        1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Newsreader                    44 fonts  OFL.txt
+  FAIL  Open Baskerville             no .otf/.ttf found in the upstream
+  ok    OpenDyslexic                   7 fonts  OFL-FAQ.txt, OFL.txt
+  ok    Ouroboros                      1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Petrona                       20 fonts  OFL.txt
+  FAIL  Piazzolla                    no .otf/.ttf found in the upstream
+  FAIL  Pilowlava                    no .otf/.ttf found in the upstream
+  ok    Pinyon Script                  1 fonts  OFL.txt
+  ok    Player Sans Mono               8 fonts  LICENSE.txt
+  ok    Playfair Display               2 fonts  OFL.txt
+  ok    Public Sans                   20 fonts  LICENSE.md, OFL.txt
+  ok    Quattrocento                   2 fonts  OFL.txt
+  FAIL  Recursive                    archive over 400 MB — fetch from a release by hand
+  ok    Red Hat Display                2 fonts  OFL.txt
+  ok    Runic                          2 fonts  LICENSE.txt
+  ok    Résistance                     1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Saintjean                      1 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Savate                         2 fonts  OFL.txt
+  ok    Sligoil                        4 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Sono                          15 fonts  OFL.txt
+  ok    Space Grotesk                  5 fonts  OFL.txt
+  ok    Space Mono                     4 fonts  LICENSE.txt, OFL.txt
+  FAIL  Spleen                       no .otf/.ttf found in the upstream
+  ok    Sporting-Grotesque             2 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Sudo                           2 fonts  OFL.txt
+  ok    Tillana                        5 fonts  OFL.txt
+  ok    Trickster                      1 fonts  LICENSE.txt
+  ok    Typefesse                      4 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    UnifrakturCook                 1 fonts  OFL.txt
+  ok    Urbanist                      21 fonts  OFL.txt
+  ok    VG5000                         1 fonts  COPYRIGHT.md, LICENSE.txt
+  FAIL  Victor Mono                  no .otf/.ttf found in the upstream
+  ok    Victorianna                    4 fonts  COPYRIGHT.md, LICENSE.txt
+  ok    Violet Sans                    1 fonts  OFL.txt
+  FAIL  Wallingford                  no .otf/.ttf found in the upstream
+  ok    Work Sans                     20 fonts  OFL.txt
+  FAIL  Wu3 Segments                 no .otf/.ttf found in the upstream
+  ok    Yantramanav                    6 fonts  OFL.txt
+  ok    Yatra One                      1 fonts  OFL.txt
+  ok    Young Serif                    1 fonts  OFL.txt
+
+17 failed — see above.

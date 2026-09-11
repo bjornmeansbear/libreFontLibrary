@@ -1,0 +1,308 @@
+[
+ {
+  "path": "amdal",
+  "name": "amdal",
+  "url": "https://gitlab.com/velvetyne/amdal",
+  "license": "ofl-1.1",
+  "last_activity": "2022-01-12",
+  "archived": false,
+  "description": "Amdal is a Tifinagh typeface designed by Walid Bouchouchi - Akakir Studio"
+ },
+ {
+  "path": "anthony",
+  "name": "Anthony",
+  "url": "https://gitlab.com/velvetyne/anthony",
+  "license": "ofl-1.1",
+  "last_activity": "2021-02-01",
+  "archived": false,
+  "description": "Anthony is a typeface dedicated to the artworks of Anthony Caro. It was designed by Sun Young Oh. "
+ },
+ {
+  "path": "Avara",
+  "name": "Avara",
+  "url": "https://gitlab.com/velvetyne/Avara",
+  "license": null,
+  "last_activity": "2022-03-17",
+  "archived": false,
+  "description": "Transitional serif curveless font."
+ },
+ {
+  "path": "backout",
+  "name": "BackOut",
+  "url": "https://gitlab.com/velvetyne/backout",
+  "license": "ofl-1.1",
+  "last_activity": "2022-10-04",
+  "archived": false,
+  "description": "BackOut is a kind of African Glyphic typeface. Its name refers to Bob Marley's eponym song."
+ },
+ {
+  "path": "basteleur",
+  "name": "Basteleur",
+  "url": "https://gitlab.com/velvetyne/basteleur",
+  "license": "ofl-1.1",
+  "last_activity": "2025-07-28",
+  "archived": false,
+  "description": "Basteleur is a typeface designed with the Tarot de Marseille in mind. This led to a funny blend of medieval-ish and cooperblack-ish typeface."
+ },
+ {
+  "path": "cantique",
+  "name": "Cantique",
+  "url": "https://gitlab.com/velvetyne/cantique",
+  "license": "ofl-1.1",
+  "last_activity": "2020-03-10",
+  "archived": false,
+  "description": "The Cantique typeface marks the marriage between human calligraphy and geometric construction shapes with a modular approach. "
+ },
+ {
+  "path": "compagnon",
+  "name": "compagnon",
+  "url": "https://gitlab.com/velvetyne/compagnon",
+  "license": "ofl-1.1",
+  "last_activity": "2021-12-08",
+  "archived": false,
+  "description": ""
+ },
+ {
+  "path": "Facade-font",
+  "name": "Fa\u00e7ade",
+  "url": "https://gitlab.com/velvetyne/Facade-font",
+  "license": "ofl-1.1",
+  "last_activity": "2023-06-30",
+  "archived": false,
+  "description": "Fa\u00e7ade is a typeface created from the architectural grid of the \u00c9SAD Orl\u00e9ans fa\u00e7ade. "
+ },
+ {
+  "path": "feroniapi",
+  "name": "Feroniapi",
+  "url": "https://gitlab.com/velvetyne/feroniapi",
+  "license": "ofl-1.1",
+  "last_activity": "2025-11-14",
+  "archived": false,
+  "description": ""
+ },
+ {
+  "path": "flor-des-ruina",
+  "name": "Flor des ruina",
+  "url": "https://gitlab.com/velvetyne/flor-des-ruina",
+  "license": "ofl-1.1",
+  "last_activity": "2026-01-09",
+  "archived": false,
+  "description": ""
+ },
+ {
+  "path": "format-1452",
+  "name": "Format 1452",
+  "url": "https://gitlab.com/velvetyne/format-1452",
+  "license": "ofl-1.1",
+  "last_activity": "2019-07-19",
+  "archived": false,
+  "description": "Format 1452 is a Din-like typeface built with modules, without any optical corrections."
+ },
+ {
+  "path": "fungal",
+  "name": "fungal",
+  "url": "https://gitlab.com/velvetyne/fungal",
+  "license": "bitstream-vera",
+  "last_activity": "2023-12-15",
+  "archived": false,
+  "description": "Libre variable font inspired by mycelium growth, forked from DejaVu Sans"
+ },
+ {
+  "path": "grotesk",
+  "name": "Grotesk",
+  "url": "https://gitlab.com/velvetyne/grotesk",
+  "license": "ofl-1.1",
+  "last_activity": "2023-01-13",
+  "archived": false,
+  "description": "Grotesk is a geometric sans serif typeface with extra-large spacing."
+ },
+ {
+  "path": "Gulax",
+  "name": "Gulax",
+  "url": "https://gitlab.com/velvetyne/Gulax",
+  "license": "ofl-1.1",
+  "last_activity": "2021-03-29",
+  "archived": false,
+  "description": "Again another \"experimental\" monolinear sans. Enjoy or not."
+ },
+ {
+  "path": "Happy-Times-at-the-IKOB",
+  "name": "Happy-Times-at-the-IKOB",
+  "url": "https://gitlab.com/velvetyne/Happy-Times-at-the-IKOB",
+  "license": "ofl-1.1",
+  "last_activity": "2019-10-28",
+  "archived": false,
+  "description": "A contemporary take of the Times New Roman typeface by Lucas Le Bihan"
+ },
+ {
+  "path": "imago-mundi-mei",
+  "name": "imago-mundi-mei",
+  "url": "https://gitlab.com/velvetyne/imago-mundi-mei",
+  "license": "ofl-1.1",
+  "last_activity": "2020-03-06",
+  "archived": false,
+  "description": "Imago Mundi Mei is a psychogeographical typometric system that allows to create maps of emotional landscapes."
+ },
+ {
+  "path": "interlope",
+  "name": "Interlope",
+  "url": "https://gitlab.com/velvetyne/interlope",
+  "license": "ofl-1.1",
+  "last_activity": "2025-10-01",
+  "archived": false,
+  "description": "Interlope is a script typeface. It is inspired by a lettering printed on the cover of the first issue of \"Interlopes\", a magazine published by the Homosexual Liberation Group of Lyon from 1977 to 1979. "
+ },
+ {
+  "path": "jgs",
+  "name": "Jgs",
+  "url": "https://gitlab.com/velvetyne/jgs",
+  "license": "ofl-1.1",
+  "last_activity": "2023-11-18",
+  "archived": false,
+  "description": "Jgs Font is a font family made in tribute to Joan G. Stark (aka jgs, Spunk), a\r\npioneer of ASCII art."
+ },
+ {
+  "path": "kaerukaeru",
+  "name": "kaerukaeru",
+  "url": "https://gitlab.com/velvetyne/kaerukaeru",
+  "license": "ofl-1.1",
+  "last_activity": "2019-07-17",
+  "archived": false,
+  "description": "A display typeface inspired by frogs and Japanese woodcuts"
+ },
+ {
+  "path": "lack",
+  "name": "lack",
+  "url": "https://gitlab.com/velvetyne/lack",
+  "license": null,
+  "last_activity": "2020-08-23",
+  "archived": false,
+  "description": "Lack is a brave, contemporary and experimental typeface which comes in a single weight with its Italic. It works well as a display typeface, but is also designed to perform in all kind of texts sizes."
+ },
+ {
+  "path": "letters",
+  "name": "Letters",
+  "url": "https://gitlab.com/velvetyne/letters",
+  "license": "ofl-1.1",
+  "last_activity": "2025-05-21",
+  "archived": false,
+  "description": "Letters is a display typeface available in regular and italic styles. Designed for experimental use, it performs best at large sizes. It derives from a historical interest in the depiction of paper within the realm of printed matter, such as teared ribbons and ornamental backgrounds. It\u2019s a silly ex"
+ },
+ {
+  "path": "lineal",
+  "name": "Lineal",
+  "url": "https://gitlab.com/velvetyne/lineal",
+  "license": "ofl-1.1",
+  "last_activity": "2023-12-15",
+  "archived": false,
+  "description": ""
+ },
+ {
+  "path": "Mess",
+  "name": "Mess",
+  "url": "https://gitlab.com/velvetyne/Mess",
+  "license": "ofl-1.1",
+  "last_activity": "2020-09-29",
+  "archived": false,
+  "description": "An illegible typeface by Tezzo Suzuki."
+ },
+ {
+  "path": "mourier",
+  "name": "Mourier",
+  "url": "https://gitlab.com/velvetyne/mourier",
+  "license": "ofl-1.1",
+  "last_activity": "2020-11-05",
+  "archived": false,
+  "description": "Mourier is a quasi-abstract geometric typeface originally created by Eric Mourier in 1971."
+ },
+ {
+  "path": "murmure",
+  "name": "Le Murmure",
+  "url": "https://gitlab.com/velvetyne/murmure",
+  "license": "ofl-1.1",
+  "last_activity": "2021-03-23",
+  "archived": false,
+  "description": "Le Murmure is a custom open-source typeface designed by J\u00e9r\u00e9my Landes for the design agency Murmure and released by Velvetyne Type Foundry."
+ },
+ {
+  "path": "ouroboros",
+  "name": "Ouroboros",
+  "url": "https://gitlab.com/velvetyne/ouroboros",
+  "license": "ofl-1.1",
+  "last_activity": "2021-02-22",
+  "archived": false,
+  "description": "A typeface for alchemists, witches, heretics, outsiders and curious people in general."
+ },
+ {
+  "path": "pilowlava3D",
+  "name": "pilowlava3D",
+  "url": "https://gitlab.com/velvetyne/pilowlava3D",
+  "license": "lal-1.3",
+  "last_activity": "2020-12-22",
+  "archived": false,
+  "description": "3D models of the Pilowlava font glyphs"
+ },
+ {
+  "path": "sligoil",
+  "name": "Sligoil",
+  "url": "https://gitlab.com/velvetyne/sligoil",
+  "license": "ofl-1.1",
+  "last_activity": "2026-06-10",
+  "archived": false,
+  "description": "A monospace typeface with large inktraps."
+ },
+ {
+  "path": "Sporting-Grotesque",
+  "name": "Sporting-Grotesque",
+  "url": "https://gitlab.com/velvetyne/Sporting-Grotesque",
+  "license": "ofl-1.1",
+  "last_activity": "2021-03-05",
+  "archived": false,
+  "description": "A grotesque typeface by @LucasLeBihan "
+ },
+ {
+  "path": "Trickster",
+  "name": "Trickster",
+  "url": "https://gitlab.com/velvetyne/Trickster",
+  "license": "ofl-1.1",
+  "last_activity": "2021-03-04",
+  "archived": false,
+  "description": "Libre font Trickster"
+ },
+ {
+  "path": "velvetyne-libre-friends",
+  "name": "Velvetyne Libre Friends",
+  "url": "https://gitlab.com/velvetyne/velvetyne-libre-friends",
+  "license": null,
+  "last_activity": "2025-08-02",
+  "archived": false,
+  "description": ""
+ },
+ {
+  "path": "Velvetyne-Notdef",
+  "name": "Velvetyne-Notdef",
+  "url": "https://gitlab.com/velvetyne/Velvetyne-Notdef",
+  "license": null,
+  "last_activity": "2019-03-27",
+  "archived": false,
+  "description": "Enhance forking and custom demands into libre fonts"
+ },
+ {
+  "path": "Velvetyne-Standard-Character-Set",
+  "name": "Velvetyne-Standard-Character-Set",
+  "url": "https://gitlab.com/velvetyne/Velvetyne-Standard-Character-Set",
+  "license": "mit",
+  "last_activity": "2019-03-27",
+  "archived": false,
+  "description": "This is a minimum charset to publish a typeface at Velvetyne"
+ },
+ {
+  "path": "vg5000",
+  "name": "vg5000",
+  "url": "https://gitlab.com/velvetyne/vg5000",
+  "license": "ofl-1.1",
+  "last_activity": "2018-11-11",
+  "archived": false,
+  "description": "The VG5000 is a typeface inspired by the homonymous computer manufactured by Phillips, released in 1984."
+ }
+]

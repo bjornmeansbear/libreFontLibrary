@@ -1,0 +1,74 @@
+71 to fetch (27 from web pages), 93 already fetched, 21 held for license, 6 to fetch by hand
+  FAIL  Garamond No. 8               <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  ok    Gentium                       10 fonts  OFL-1.1      OFL-FAQ.txt, OFL.txt
+  ok    IBM Plex                     135 fonts  OFL-1.1      license.txt
+  ok    League Gothic                  4 fonts  OFL-1.1      OFL.md
+  ok    League Mono                   41 fonts  OFL-1.1      OFL.md
+  FAIL  Liberation Fonts             no binaries in the repo, and no release assets with any
+  ok    Libre Clarendon              120 fonts  OFL-1.1      OFL.txt
+  FAIL  Not Courier Sans             no .zip download on the page — fetch by hand
+  ok    Poppins                       18 fonts  OFL-1.1      OFL.txt
+  FAIL  0xA000                       HTTP Error 404: Not Found
+  ok    3270                           3 fonts  OFL-1.1      LICENSE.txt
+  FAIL  Alfphabet                    no .zip download on the page — fetch by hand
+  ok    Avara                          4 fonts  OFL-1.1      copyright.glif, copyright.glif
+  FAIL  Avería                       HTTP Error 404: Not Found
+  ok    Belgika                        4 fonts  OFL-1.1      ofl-faq.txt, ofl.txt
+  FAIL  Betatron                     no .zip download on the page — fetch by hand
+  ok    BianZhiDai                    27 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.md
+  ok    Boeticher                      1 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  FAIL  Brazil                       no .zip download on the page — fetch by hand
+  ok    CirrusCumulus                  1 fonts  OFL-1.1      LICENSE
+  ok    Combat                         1 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  FAIL  Cooper Hewitt                no binaries in the repo, and no release assets with any
+  ok    Degheest                      18 fonts  OFL-1.1      COPYRIGHT.md, License SIL OFL.txt
+  FAIL  DejaVu                       no binaries in the repo, and no release assets with any
+  FAIL  Fengardo Neue                no license file found upstream — not written
+  ok    FiraCode                       6 fonts  OFL-1.1      LICENSE
+  ok    Gidole                         2 fonts  OFL-1.1      License.txt, copyright.glyph
+  FAIL  Go                           no .zip download on the page — fetch by hand
+  ok    Grobe Deutschmeister           1 fonts  OFL-1.1      LICENSE.txt
+  ok    Hangul                         1 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  FAIL  Hershey Noailles             no .zip download on the page — fetch by hand
+  FAIL  HK Grotesk                   no .zip download on the page — fetch by hand
+  ok    Hyper Scrypt                   2 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  FAIL  Infini                       <urlopen error timed out>
+  ok    Inter                         36 fonts  OFL-1.1      LICENSE.txt
+  ok    Karrik                         2 fonts  OFL-1.1      LICENCE.txt
+  FAIL  Lincoln MITRE                no .zip download on the page — fetch by hand
+  FAIL  Linux Libertine              no .zip download on the page — fetch by hand
+  ok    Lithops                        1 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  FAIL  Lunchtype                    no .zip download on the page — fetch by hand
+  FAIL  Mackinac 1895                no .zip download on the page — fetch by hand
+  FAIL  Monti Sans                   no .zip download on the page — fetch by hand
+  FAIL  National Park                no .zip download on the page — fetch by hand
+  FAIL  Open Baskerville             no binaries in the repo, and no release assets with any
+  ok    OSP-DIN                        1 fonts  OFL-1.1      OFL-1.1.txt, COPYING.txt
+  ok    Outward                        3 fonts  OFL-1.1      license.txt
+  ok    Ouvrières                      5 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.md
+  FAIL  Pecita                       no .zip download on the page — fetch by hand
+  ok    Piazzolla                     20 fonts  OFL-1.1      OFL.txt
+  ok    Pilowlava                      2 fonts  OFL-1.1      COPYRIGHT.md, License.txt
+  ok    Recursive                     64 fonts  OFL-1.1      LICENSE.txt
+  ok    Red Hat                       40 fonts  OFL-1.1      LICENSE, OFL.txt
+  FAIL  Renner                       no .zip download on the page — fetch by hand
+  FAIL  Sinkin Sans                  no .zip download on the page — fetch by hand
+  FAIL  Snap-it Mono                 no .zip download on the page — fetch by hand
+  ok    Solide Mirage                  2 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  ok    Spleen                         5 fonts  BSD-2-Clause LICENSE
+  FAIL  Steinbeck                    no .zip download on the page — fetch by hand
+  ok    Steps Mono                     2 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  ok    Terminal Grotesque             2 fonts  OFL-1.1      LICENSE.md
+  ok    TINY                          16 fonts  OFL-1.1      LICENSE.txt
+  FAIL  Ubuntu                       no .zip download on the page — fetch by hand
+  FAIL  Victor Mono                  no binaries in the repo, and no release assets with any
+  ok    Victorianna                    2 fonts  OFL-1.1      COPYRIGHT.md, LICENSE.txt
+  ok    Violet Sans                    1 fonts  OFL-1.1      OFL.txt
+  FAIL  Wallingford                  no binaries in the repo, and no release assets with any
+  ok    Work Sans                     20 fonts  OFL-1.1      OFL.txt
+  FAIL  Wu3 Segments                 no binaries in the repo, and no release assets with any
+  ok    Yantramanav                    6 fonts  OFL-1.1      OFL.txt
+  ok    Yatra One                      1 fonts  OFL-1.1      OFL.txt
+  ok    Young Serif                    1 fonts  OFL-1.1      OFL.txt
+
+31 failed — see above.

@@ -1,0 +1,36 @@
+33 to fetch (22 from web pages), 131 already fetched, 21 held for license, 6 to fetch by hand
+  FAIL  Garamond No. 8               <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  FAIL  Liberation Fonts             no binaries in the repo, and no release assets with any
+  FAIL  Not Courier Sans             no .zip download on the page — fetch by hand
+  FAIL  0xA000                       HTTP Error 404: Not Found
+  FAIL  Alfphabet                    no .zip download on the page — fetch by hand
+  FAIL  Avara                        no license file found upstream — not written
+  FAIL  Avería                       HTTP Error 404: Not Found
+  FAIL  Betatron                     no .zip download on the page — fetch by hand
+  FAIL  Brazil                       no .zip download on the page — fetch by hand
+  FAIL  Cooper Hewitt                no binaries in the repo, and no release assets with any
+  FAIL  DejaVu                       no binaries in the repo, and no release assets with any
+  FAIL  Fengardo Neue                no license file found upstream — not written
+  ok    Gidole                         2 fonts  OFL-1.1      License.txt
+  FAIL  Go                           no .zip download on the page — fetch by hand
+  FAIL  Hershey Noailles             no .zip download on the page — fetch by hand
+  FAIL  HK Grotesk                   no .zip download on the page — fetch by hand
+  FAIL  Infini                       <urlopen error timed out>
+  FAIL  Lincoln MITRE                no .zip download on the page — fetch by hand
+  FAIL  Linux Libertine              no .zip download on the page — fetch by hand
+  FAIL  Lunchtype                    no .zip download on the page — fetch by hand
+  FAIL  Mackinac 1895                no .zip download on the page — fetch by hand
+  FAIL  Monti Sans                   no .zip download on the page — fetch by hand
+  ok    National Park                  1 fonts  OFL-1.1      OFL.txt
+  FAIL  Open Baskerville             no binaries in the repo, and no release assets with any
+  FAIL  Pecita                       no .zip download on the page — fetch by hand
+  FAIL  Renner                       no .zip download on the page — fetch by hand
+  FAIL  Sinkin Sans                  no .zip download on the page — fetch by hand
+  FAIL  Snap-it Mono                 no .zip download on the page — fetch by hand
+  FAIL  Steinbeck                    no .zip download on the page — fetch by hand
+  ok    Ubuntu                         8 fonts  UFL-1.0      UFL.txt, LICENCE.txt
+  ok    Victor Mono                   24 fonts  OFL-1.1      LICENSE.txt, LICENSE
+  FAIL  Wallingford                  no binaries in the repo, and no release assets with any
+  FAIL  Wu3 Segments                 no binaries in the repo, and no release assets with any
+
+29 failed — see above.

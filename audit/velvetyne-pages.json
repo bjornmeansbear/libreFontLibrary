@@ -1,0 +1,588 @@
+[
+ {
+  "slug": "amdal",
+  "name": "Amdal",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/amdal/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/amdal"
+  ]
+ },
+ {
+  "slug": "anthony",
+  "name": "Anthony",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/anthony/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/anthony"
+  ]
+ },
+ {
+  "slug": "avara",
+  "name": "Avara",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/avara/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/Avara/"
+  ]
+ },
+ {
+  "slug": "backout",
+  "name": "BackOut",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/backout/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/backout"
+  ]
+ },
+ {
+  "slug": "basteleur",
+  "name": "Basteleur",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/basteleur/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/hunterirving/mixapps",
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/basteleur"
+  ]
+ },
+ {
+  "slug": "bianzhidai",
+  "name": "BianZhiDai",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/bianzhidai/",
+  "license_text": [
+   "OFL 1.1",
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/sdfggvfvj/bianzhidai-2.0",
+   "https://github.com/sdfggvfvj/bianzhidai-2.0/blob/main/LICENSE.md",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "cirruscumulus",
+  "name": "CirrusCumulus",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/cirruscumulus/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/Clarasambot/cirruscumulus",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "combat",
+  "name": "Combat",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/combat/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/martindesinde/Combat",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "compagnon",
+  "name": "Compagnon",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/compagnon/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/compagnon"
+  ]
+ },
+ {
+  "slug": "degheest",
+  "name": "Degheest",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/degheest/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/Eugenie-B/degheest-types",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "facade",
+  "name": "Façade",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/facade/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/eleonorefines/Facade-font",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "feroniapi",
+  "name": "Feroniapi",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/feroniapi/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "flor-de-ruina",
+  "name": "Flor de ruina",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/flor-de-ruina/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/flor-des-ruina"
+  ]
+ },
+ {
+  "slug": "format-1452",
+  "name": "Format 1452",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/format-1452/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/format-1452"
+  ]
+ },
+ {
+  "slug": "fungal",
+  "name": "Fungal",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/fungal/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/fungal/"
+  ]
+ },
+ {
+  "slug": "grotesk",
+  "name": "Grotesk",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/grotesk/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/grotesk"
+  ]
+ },
+ {
+  "slug": "gulax",
+  "name": "Gulax",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/gulax/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/Gulax"
+  ]
+ },
+ {
+  "slug": "hyper-scrypt",
+  "name": "Hyper Scrypt",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/hyper-scrypt/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/StudioTriple/Hyper-Scrypt",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "interlope",
+  "name": "Interlope",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/interlope/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/interlope"
+  ]
+ },
+ {
+  "slug": "jgs-font",
+  "name": "Jgs font",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/jgs-font/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/jgs/-/tree/main/sources"
+  ]
+ },
+ {
+  "slug": "kaeru-kaeru",
+  "name": "Kaeru Kaeru",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/kaeru-kaeru/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/kaerukaeru"
+  ]
+ },
+ {
+  "slug": "karrik",
+  "name": "Karrik",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/karrik/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/phantomfoundry/karrik_fonts",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "le-murmure",
+  "name": "Le Murmure",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/le-murmure/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/murmure"
+  ]
+ },
+ {
+  "slug": "letters",
+  "name": "Letters",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/letters/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/letters"
+  ]
+ },
+ {
+  "slug": "lineal",
+  "name": "Lineal",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/lineal/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/lineal/"
+  ]
+ },
+ {
+  "slug": "lithops",
+  "name": "Lithops",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/lithops/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/daytonamess/lithops",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "mess",
+  "name": "Mess",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/mess/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/Mess"
+  ]
+ },
+ {
+  "slug": "mourier",
+  "name": "Mourier",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/mourier/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/mourier"
+  ]
+ },
+ {
+  "slug": "ouroboros",
+  "name": "Ouroboros",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/ouroboros/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "outward",
+  "name": "Outward",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/outward/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/raoulaudouin/Outward",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "ouvrieres",
+  "name": "Ouvrières",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/ouvrieres/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/laureazz/Ouvrieres",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "picnic",
+  "name": "PicNic",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/picnic/",
+  "license_text": [],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/mariellenils/PicNic",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "pilowlava",
+  "name": "Pilowlava",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/pilowlava/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/StudioTriple/pilowlava/",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "resistance",
+  "name": "Résistance",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/resistance/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/velvetyne/resistance-generale",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "sligoil",
+  "name": "Sligoil",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/sligoil/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/sligoil"
+  ]
+ },
+ {
+  "slug": "steps-mono",
+  "name": "Steps Mono",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/steps-mono/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/raphaelbastide/steps-mono",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "terminal-grotesque",
+  "name": "Terminal Grotesque",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/terminal-grotesque/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/raphaelbastide/Terminal-Grotesque",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "tiny",
+  "name": "TINY",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/tiny/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/jckfa/tinyfonts",
+   "https://github.com/jckfa/tinyfonts#grid-perfect-leading",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "trickster",
+  "name": "Trickster",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/trickster/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/velvetyne/Trickster",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "typefesse",
+  "name": "Typefesse",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/typefesse/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://github.com/ohpla/typefesse",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "velvelyne",
+  "name": "Velvelyne",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/velvelyne/",
+  "license_text": [],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/mariellenils/Velvelyne",
+   "https://gitlab.com/velvetyne"
+  ]
+ },
+ {
+  "slug": "vg5000",
+  "name": "VG5000",
+  "authors": [],
+  "url": "https://velvetyne.fr/fonts/vg5000/",
+  "license_text": [
+   "SIL Open Font License"
+  ],
+  "zips": [],
+  "repos": [
+   "https://gitlab.com/velvetyne",
+   "https://gitlab.com/velvetyne/vg5000"
+  ]
+ }
+]

@@ -1,0 +1,2657 @@
+# libreFontLibrary manifest — one entry per upstream family.
+# The only file here maintained by hand. Seeded by build_manifest.py;
+# license and updated are filled by verify.py.
+#
+# type: github | gitlab | google (fetch.py can pull these)
+#       web (fetch by hand) | unknown (upstream not found yet)
+
+[collection]
+arena = "https://www.are.na/kristian-bjornard/libretype"   # where new finds land first
+list  = "https://github.com/bjornmeansbear/libreFontList"   # the 2018 curated list, absorbed here
+foundries = ["Velvetyne"]   # taken whole, not family by family
+
+[[family]]
+name      = "Amstelvar"
+upstream  = "https://github.com/TypeNetwork/Amstelvar"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-07-28"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["amstelvar"]
+
+[[family]]
+name      = "Barlow"
+upstream  = "https://github.com/jpt/barlow"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2024-08-10"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["barlow"]
+
+[[family]]
+name      = "Cormorant"
+upstream  = "https://github.com/CatharsisFonts/Cormorant"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-04-21"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "libretype", "Families"]
+match     = ["cormorant", "cormorantgaramond"]
+
+[[family]]
+name      = "Fira"
+upstream  = "https://github.com/mozilla/Fira"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2020-12-16 archived"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "libretype", "Families"]
+match     = ["fira"]
+
+[[family]]
+name      = "Garamond No. 8"
+upstream  = "https://garamond.org"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = true
+in_repo   = 8
+note      = ""
+fetched   = false
+sources   = ["libreFontList", "libreFontLibrary"]
+match     = ["garamondno8"]
+
+[[family]]
+name      = "Gentium"
+upstream  = "https://software.sil.org/gentium/download"
+type      = "web"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["gentium"]
+
+[[family]]
+name      = "GNU Grotesk"
+upstream  = "https://github.com/eliheuer/gnugrotesk"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2018-08-07"
+favourite = true
+in_repo   = 1
+note      = ""
+fetched   = false
+sources   = ["libreFontList", "libreFontLibrary"]
+match     = ["gnugrotesk"]
+
+[[family]]
+name      = "IBM Plex"
+upstream  = "https://github.com/IBM/plex"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-09-09"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["ibmplex", "plex"]
+
+[[family]]
+name      = "Inria"
+upstream  = "https://github.com/BlackFoundry/InriaFonts"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2021-12-08"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "libretype", "Families"]
+match     = ["inria"]
+
+[[family]]
+name      = "League Gothic"
+upstream  = "https://github.com/theleagueof/league-gothic"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2023-11-24"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["leaguegothic"]
+
+[[family]]
+name      = "League Mono"
+upstream  = "https://github.com/sursly/leaguemono"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2022-02-17"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "libretype", "Families"]
+match     = ["leaguemono"]
+
+[[family]]
+name      = "Liberation Fonts"
+upstream  = "https://github.com/liberationfonts/liberation-fonts"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2022-12-02"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libreFontList", "libretype"]
+match     = ["liberationfonts"]
+
+[[family]]
+name      = "Libre Baskerville"
+upstream  = "https://github.com/impallari/Libre-Baskerville"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-10-16"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["librebaskerville"]
+
+[[family]]
+name      = "Libre Bodoni"
+upstream  = "https://github.com/impallari/Libre-Bodoni"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2016-11-01"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["librebodoni"]
+
+[[family]]
+name      = "Libre Caslon Display"
+upstream  = "https://github.com/impallari/Libre-Caslon-Display"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2017-11-30"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["librecaslondisplay"]
+
+[[family]]
+name      = "Libre Caslon Text"
+upstream  = "https://github.com/impallari/Libre-Caslon-Text"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2017-11-30"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["librecaslontext"]
+
+[[family]]
+name      = "Libre Clarendon"
+upstream  = "https://github.com/impallari/Libre-Clarendon"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-08-19"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["libreclarendon", "mastercondensed", "masterwide"]
+
+[[family]]
+name      = "Libre Franklin"
+upstream  = "https://github.com/impallari/Libre-Franklin"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-09-02"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "libretype", "Families"]
+match     = ["librefranklin"]
+
+[[family]]
+name      = "Not Courier Sans"
+upstream  = "http://ospublish.constantvzw.org/foundry/notcouriersans"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libreFontList"]
+match     = ["notcouriersans"]
+
+[[family]]
+name      = "Noto"
+upstream  = "https://fonts.google.com/noto"
+type      = "google"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = true
+in_repo   = 7
+note      = ""
+fetched   = false
+sources   = ["libreFontList", "libreFontLibrary"]
+match     = ["noto"]
+
+[[family]]
+name      = "Open Sans"
+upstream  = "https://github.com/googlefonts/opensans"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-06-18"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["opensans"]
+
+[[family]]
+name      = "Overpass"
+upstream  = "https://github.com/RedHatOfficial/Overpass"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2023-07-20"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["overpass"]
+
+[[family]]
+name      = "Poppins"
+upstream  = "https://fonts.google.com/specimen/Poppins"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-09-16"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "libretype", "Families"]
+match     = ["poppins"]
+
+[[family]]
+name      = "Source Code Pro"
+upstream  = "https://github.com/adobe-fonts/source-code-pro"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-10-28"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["sourcecode", "sourcecodepro"]
+
+[[family]]
+name      = "Source Sans"
+upstream  = "https://github.com/adobe-fonts/source-sans-pro"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-10-28"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["sourcesans"]
+
+[[family]]
+name      = "Source Serif"
+upstream  = "https://github.com/adobe-fonts/source-serif-pro"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-09-09"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "Families"]
+match     = ["sourceserif"]
+
+[[family]]
+name      = "Spectral"
+upstream  = "https://github.com/productiontype/spectral"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2024-11-18"
+favourite = true
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libreFontList", "libretype", "Families"]
+match     = ["spectral"]
+
+[[family]]
+name      = "0xA000"
+upstream  = "http://pippin.gimp.org/0xA000"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["0xa000"]
+
+[[family]]
+name      = "3270"
+upstream  = "https://github.com/rbanffy/3270font"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-02-13"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["3270"]
+
+[[family]]
+name      = "Alfphabet"
+upstream  = "https://osp.kitchen/foundry/alfphabet"
+type      = "web"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 3
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["alfphabet"]
+
+[[family]]
+name      = "Amdal"
+upstream  = "https://gitlab.com/velvetyne/amdal"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2022-01-12"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["amdal"]
+
+[[family]]
+name      = "Anthony"
+upstream  = "https://gitlab.com/velvetyne/anthony"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-02-01"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["anthony"]
+
+[[family]]
+name      = "Atkinson Hyperlegible"
+upstream  = "https://github.com/googlefonts/atkinson-hyperlegible"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2021-04-30 archived"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["atkinsonhyperlegible"]
+
+[[family]]
+name      = "Avara"
+upstream  = "https://gitlab.com/velvetyne/Avara"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2022-03-17"
+favourite = false
+in_repo   = 3
+note      = ""
+fetched   = false
+sources   = ["velvetyne", "libreFontLibrary"]
+match     = ["avara"]
+
+[[family]]
+name      = "Avería"
+upstream  = "http://iotic.com/averia"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["avera"]
+
+[[family]]
+name      = "BackOut"
+upstream  = "https://gitlab.com/velvetyne/backout"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2022-10-04"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["backout"]
+
+[[family]]
+name      = "Basteleur"
+upstream  = "https://gitlab.com/velvetyne/basteleur"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2025-07-28"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["basteleur"]
+
+[[family]]
+name      = "Belgika"
+upstream  = "https://github.com/osp/osp.foundry.belgica-belgika"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["belgika"]
+
+[[family]]
+name      = "Betatron"
+upstream  = "https://cotypefoundry.com/our-fonts/betatron"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["betatron"]
+
+[[family]]
+name      = "BianZhiDai"
+upstream  = "https://github.com/sdfggvfvj/bianzhidai-2.0"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["bianzhidai"]
+
+[[family]]
+name      = "BilboINC"
+upstream  = "https://github.com/velvetyne/BilboINC"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "NOASSERTION"
+updated   = "2018-04-09"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["velvetyne"]
+match     = ["bilboinc"]
+
+[[family]]
+name      = "BioRhyme"
+upstream  = "https://fonts.google.com/specimen/BioRhyme"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["biorhyme"]
+
+[[family]]
+name      = "Bluu Next"
+upstream  = "https://github.com/velvetyne/BluuNext"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "none-found"
+updated   = "2019-07-04"
+favourite = false
+in_repo   = 3
+note      = "Retired from Velvetyne's catalogue; still available."
+fetched   = false
+sources   = ["velvetyne", "libreFontLibrary"]
+match     = ["bluunext"]
+
+[[family]]
+name      = "Boeticher"
+upstream  = "https://github.com/velvetyne/Boeticher"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-08-19"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["boeticher"]
+
+[[family]]
+name      = "Brazil"
+upstream  = "https://www.librarystack.org/brazil"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["brazil"]
+
+[[family]]
+name      = "BuffaloGals"
+upstream  = "https://github.com/TrueTyper/BuffaloGals"
+type      = "github"
+foundry   = ""
+license   = "NOASSERTION"
+updated   = "2017-04-19"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["buffalogals"]
+
+[[family]]
+name      = "Cantarell"
+upstream  = "https://fonts.google.com/specimen/Cantarell"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["cantarell"]
+
+[[family]]
+name      = "Cantique"
+upstream  = "https://gitlab.com/velvetyne/cantique"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2020-03-10"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["cantique"]
+
+[[family]]
+name      = "Charis SIL"
+upstream  = "https://fonts.google.com/specimen/Charis+SIL"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["charissil"]
+
+[[family]]
+name      = "CirrusCumulus"
+upstream  = "https://gitlab.com/Clarasambot/cirruscumulus"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["cirruscumulus"]
+
+[[family]]
+name      = "Combat"
+upstream  = "https://github.com/martindesinde/Combat"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["combat"]
+
+[[family]]
+name      = "Commune Nuit Debout"
+upstream  = "https://github.com/velvetyne/Commune-Nuit-Debout"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2018-05-21"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["communenuitdebout"]
+
+[[family]]
+name      = "Compagnon"
+upstream  = "https://gitlab.com/velvetyne/compagnon"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-12-08"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["compagnon"]
+
+[[family]]
+name      = "Cooper Hewitt"
+upstream  = "https://github.com/cooperhewitt/cooperhewitt-typeface"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2015-09-04"
+favourite = false
+in_repo   = 14
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["cooperhewitt"]
+
+[[family]]
+name      = "Counter"
+upstream  = "https://github.com/brycewilner/Counter"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2017-03-31"
+favourite = false
+in_repo   = 0
+note      = "Bryce Wilner's repo carries no license, so it can't be redistributed until it does."
+fetched   = false
+sources   = ["libretype"]
+match     = ["counter"]
+
+[[family]]
+name      = "Courrrier"
+upstream  = "https://github.com/velvetyne/courrrier"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-10-10"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["courrrier"]
+
+[[family]]
+name      = "Crimson Pro"
+upstream  = "https://fonts.google.com/specimen/Crimson+Pro"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-09-11"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["crimsonpro"]
+
+[[family]]
+name      = "Daubenton"
+upstream  = "https://github.com/velvetyne/Daubenton"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-08-18"
+favourite = false
+in_repo   = 0
+note      = "Retired from Velvetyne's catalogue; still available."
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["daubenton"]
+
+[[family]]
+name      = "Degheest"
+upstream  = "https://gitlab.com/Eugenie-B/degheest-types"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["degheest"]
+
+[[family]]
+name      = "DejaVu"
+upstream  = "https://github.com/dejavu-fonts/dejavu-fonts"
+type      = "github"
+foundry   = ""
+license   = "Bitstream-Vera"
+updated   = "2024-05-15"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["dejavu"]
+
+[[family]]
+name      = "Dosis"
+upstream  = "https://github.com/impallari/Dosis"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2023-06-14"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["dosis"]
+
+[[family]]
+name      = "Emotionaltype"
+upstream  = "https://github.com/boomwooq/emotionaltype"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-01-25"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["emotionaltype"]
+
+[[family]]
+name      = "Epilogue"
+upstream  = "https://github.com/Etcetera-Type-Co/epilogue"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2023-10-11"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["epilogue"]
+
+[[family]]
+name      = "Euripedes"
+upstream  = "https://github.com/ny3t0/euripedes-"
+type      = "github"
+foundry   = ""
+license   = "upstream-404"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = "The channel link is truncated; the repo needs finding."
+fetched   = false
+sources   = ["libretype"]
+match     = ["euripedes"]
+
+[[family]]
+name      = "Evening"
+upstream  = "https://github.com/brycewilner/Evening"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2017-07-31"
+favourite = false
+in_repo   = 0
+note      = "Bryce Wilner's repo carries no license, so it can't be redistributed until it does."
+fetched   = false
+sources   = ["libretype"]
+match     = ["evening"]
+
+[[family]]
+name      = "Façade"
+upstream  = "https://gitlab.com/velvetyne/Facade-font"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2023-06-30"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["faade", "facade"]
+
+[[family]]
+name      = "Fengardo Neue"
+upstream  = "https://fontlibrary.org/en/font/fengardo-neue"
+type      = "web"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 2
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["fengardo", "fengardoneue"]
+
+[[family]]
+name      = "Feroniapi"
+upstream  = "https://gitlab.com/velvetyne/feroniapi"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2025-11-14"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["feroniapi"]
+
+[[family]]
+name      = "Fira Sans"
+upstream  = "https://fonts.google.com/specimen/Fira+Sans"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-09-11"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["firasans"]
+
+[[family]]
+name      = "FiraCode"
+upstream  = "https://github.com/tonsky/FiraCode"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-07-28"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["firacode"]
+
+[[family]]
+name      = "FiraGO"
+upstream  = "https://github.com/bBoxType/FiraGO"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-11-05"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["firago"]
+
+[[family]]
+name      = "Flor de ruina"
+upstream  = "https://gitlab.com/velvetyne/flor-des-ruina"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2026-01-09"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["florderuina", "flordesruina"]
+
+[[family]]
+name      = "Fontlab"
+upstream  = "https://github.com/brycewilner/Fontlab-Font"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2016-04-26"
+favourite = false
+in_repo   = 0
+note      = "Bryce Wilner's repo carries no license, so it can't be redistributed until it does."
+fetched   = false
+sources   = ["libretype"]
+match     = ["fontlab"]
+
+[[family]]
+name      = "Format 1452"
+upstream  = "https://gitlab.com/velvetyne/format-1452"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2019-07-19"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["format1452"]
+
+[[family]]
+name      = "Fruktur"
+upstream  = "https://fonts.google.com/specimen/Fruktur"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["fruktur"]
+
+[[family]]
+name      = "Fungal"
+upstream  = "https://gitlab.com/velvetyne/fungal"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "Bitstream-Vera"
+updated   = "2023-12-15"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["fungal"]
+
+[[family]]
+name      = "Geneve 1564"
+upstream  = "https://github.com/raphink/geneve_1564"
+type      = "github"
+foundry   = ""
+license   = "GPL-3.0"
+updated   = "2023-02-17"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["geneve1564"]
+
+[[family]]
+name      = "Gidole"
+upstream  = "https://github.com/larsenwork/Gidole"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2022-01-01"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["gidole"]
+
+[[family]]
+name      = "Go"
+upstream  = "https://go.dev/blog/go-fonts"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["go"]
+
+[[family]]
+name      = "Grenze"
+upstream  = "https://github.com/Omnibus-Type/Grenze"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-03-27"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["grenze"]
+
+[[family]]
+name      = "Grobe Deutschmeister"
+upstream  = "https://fontlibrary.org/en/font/grobe-deutschmeister"
+type      = "web"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["grobedeutschmeister"]
+
+[[family]]
+name      = "Grotesk"
+upstream  = "https://gitlab.com/velvetyne/grotesk"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2023-01-13"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["grotesk"]
+
+[[family]]
+name      = "Gulax"
+upstream  = "https://gitlab.com/velvetyne/Gulax"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-03-29"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["gulax"]
+
+[[family]]
+name      = "Hack"
+upstream  = "https://github.com/source-foundry/Hack"
+type      = "github"
+foundry   = ""
+license   = "Bitstream-Vera"
+updated   = "2022-11-21"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["hack"]
+
+[[family]]
+name      = "Half"
+upstream  = "https://github.com/brycewilner/Half"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2016-08-25"
+favourite = false
+in_repo   = 0
+note      = "Bryce Wilner's repo carries no license, so it can't be redistributed until it does."
+fetched   = false
+sources   = ["libretype"]
+match     = ["half"]
+
+[[family]]
+name      = "Hangul"
+upstream  = "https://github.com/velvetyne/Hangul"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-08-19"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["hangul"]
+
+[[family]]
+name      = "Happy-Times-at-the-IKOB"
+upstream  = "https://gitlab.com/velvetyne/Happy-Times-at-the-IKOB"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2019-10-28"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["happytimesattheikob"]
+
+[[family]]
+name      = "Hasubi Mono"
+upstream  = "https://github.com/eliheuer/hasubi-mono"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2023-02-13"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["hasubimono"]
+
+[[family]]
+name      = "Helvetia Verbundene"
+upstream  = ""
+type      = "unknown"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 1
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["helvetiaverbundene"]
+
+[[family]]
+name      = "Hepta Slab"
+upstream  = "https://github.com/mjlagattuta/Hepta-Slab"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2021-09-22"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["heptaslab"]
+
+[[family]]
+name      = "Hershey Noailles"
+upstream  = "http://hershey-noailles.luuse.io/www"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["hersheynoailles"]
+
+[[family]]
+name      = "HK Grotesk"
+upstream  = "https://hanken.co/products/hk-grotesk"
+type      = "web"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 22
+note      = "Hanken Grotesk on Google Fonts is its OFL successor."
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["hkgrotesk"]
+
+[[family]]
+name      = "Hyper Scrypt"
+upstream  = "https://gitlab.com/StudioTriple/Hyper-Scrypt"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["hyperscrypt"]
+
+[[family]]
+name      = "imago-mundi-mei"
+upstream  = "https://gitlab.com/velvetyne/imago-mundi-mei"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2020-03-06"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["imagomundimei"]
+
+[[family]]
+name      = "Infini"
+upstream  = "https://www.cnap.fr/infini"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["infini"]
+
+[[family]]
+name      = "Intel One Mono"
+upstream  = "https://github.com/intel/intel-one-mono"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-09-09"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["intelonemono"]
+
+[[family]]
+name      = "Inter"
+upstream  = "https://github.com/rsms/inter"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2024-11-19"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["inter"]
+
+[[family]]
+name      = "Interlope"
+upstream  = "https://gitlab.com/velvetyne/interlope"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2025-10-01"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["interlope"]
+
+[[family]]
+name      = "Jgs font"
+upstream  = "https://gitlab.com/velvetyne/jgs"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2023-11-18"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["jgs", "jgsfont"]
+
+[[family]]
+name      = "Jost"
+upstream  = "https://github.com/indestructible-type/Jost"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2023-03-12"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["jost"]
+
+[[family]]
+name      = "Kaeru Kaeru"
+upstream  = "https://gitlab.com/velvetyne/kaerukaeru"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2019-07-17"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["kaerukaeru"]
+
+[[family]]
+name      = "Karrik"
+upstream  = "https://gitlab.com/phantomfoundry/karrik_fonts"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["karrik"]
+
+[[family]]
+name      = "Kavoon"
+upstream  = "https://fonts.google.com/specimen/Kavoon"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["kavoon"]
+
+[[family]]
+name      = "Krayewski Open"
+upstream  = "https://github.com/laictype/Krayewski_Open"
+type      = "github"
+foundry   = ""
+license   = "upstream-404"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = "The upstream repo is gone (404)."
+fetched   = false
+sources   = ["libretype"]
+match     = ["krayewskiopen"]
+
+[[family]]
+name      = "Lack"
+upstream  = "https://gitlab.com/velvetyne/lack"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "none-found"
+updated   = "2020-08-23"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["velvetyne"]
+match     = ["lack"]
+
+[[family]]
+name      = "Le Murmure"
+upstream  = "https://gitlab.com/velvetyne/murmure"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-03-23"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["lemurmure", "murmure"]
+
+[[family]]
+name      = "League Spartan"
+upstream  = "https://github.com/sursly/league-spartan"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2021-06-11"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["leaguespartan"]
+
+[[family]]
+name      = "Letters"
+upstream  = "https://gitlab.com/velvetyne/letters"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2025-05-21"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["letters"]
+
+[[family]]
+name      = "Lincoln MITRE"
+upstream  = "https://www.librarystack.org/lincolnmitre"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["lincolnmitre"]
+
+[[family]]
+name      = "Lineal"
+upstream  = "https://gitlab.com/velvetyne/lineal"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2023-12-15"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["lineal"]
+
+[[family]]
+name      = "Linux Libertine"
+upstream  = "http://libertine-fonts.org"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 23
+note      = ""
+fetched   = false
+sources   = ["libretype", "libreFontLibrary"]
+match     = ["linbiolinum", "linlibertine", "linuxlibertine"]
+
+[[family]]
+name      = "Lithops"
+upstream  = "https://gitlab.com/daytonamess/lithops"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["lithops"]
+
+[[family]]
+name      = "Lment"
+upstream  = "https://github.com/velvetyne/Lment_"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-10-10"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["lment"]
+
+[[family]]
+name      = "Lunchtype"
+upstream  = "http://lunchtype.com"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["lunchtype"]
+
+[[family]]
+name      = "Mackinac 1895"
+upstream  = "https://www.miacinelli.com/Mackinac-1895"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["mackinac1895"]
+
+[[family]]
+name      = "Manifont Grotesk"
+upstream  = "https://github.com/Interstices-/Manifont-Grotesk"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["manifont", "manifontgrotesk"]
+
+[[family]]
+name      = "Manrope"
+upstream  = "https://fonts.google.com/specimen/Manrope"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-09-04"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["manrope"]
+
+[[family]]
+name      = "Marcel"
+upstream  = "https://github.com/velvetyne/marcel"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "none-found"
+updated   = "2012-06-18"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["velvetyne"]
+match     = ["marcel"]
+
+[[family]]
+name      = "Markazitext"
+upstream  = "https://github.com/BornaIz/markazitext"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2024-10-27"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["markazitext"]
+
+[[family]]
+name      = "Mess"
+upstream  = "https://gitlab.com/velvetyne/Mess"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2020-09-29"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["mess"]
+
+[[family]]
+name      = "Metropolis"
+upstream  = "https://github.com/chrismsimpson/Metropolis"
+type      = "github"
+foundry   = ""
+license   = "upstream-404"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = "The upstream repo is gone (404)."
+fetched   = false
+sources   = ["libretype"]
+match     = ["metropolis"]
+
+[[family]]
+name      = "Minipax"
+upstream  = "https://github.com/ronotypo/Minipax"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = "Retired from Velvetyne's catalogue; still available."
+fetched   = true
+sources   = ["Families"]
+match     = ["minipax"]
+
+[[family]]
+name      = "Mixo"
+upstream  = ""
+type      = "unknown"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 1
+note      = "Retired from Velvetyne's catalogue; still available."
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["mixo", "vtfmixo"]
+
+[[family]]
+name      = "Montaga"
+upstream  = "https://fonts.google.com/specimen/Montaga"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["montaga"]
+
+[[family]]
+name      = "Monti Sans"
+upstream  = "https://www.librarystack.org/monti-sans"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["montisans"]
+
+[[family]]
+name      = "Mourier"
+upstream  = "https://gitlab.com/velvetyne/mourier"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2020-11-05"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["mourier"]
+
+[[family]]
+name      = "National Park"
+upstream  = "https://fonts.google.com/specimen/National+Park"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-09-11"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["nationalpark"]
+
+[[family]]
+name      = "Newsreader"
+upstream  = "https://github.com/productiontype/Newsreader"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2021-03-01"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["newsreader"]
+
+[[family]]
+name      = "Open Baskerville"
+upstream  = "https://github.com/klepas/open-baskerville"
+type      = "github"
+foundry   = ""
+license   = "GPL-3.0"
+updated   = "2022-08-12"
+favourite = false
+in_repo   = 1
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["openbaskerville"]
+
+[[family]]
+name      = "OpenDyslexic"
+upstream  = "https://github.com/antijingoist/opendyslexic"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-08-11 archived"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["opendyslexic"]
+
+[[family]]
+name      = "OSP-DIN"
+upstream  = "https://fontlibrary.org/en/font/osp-din"
+type      = "web"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["ospdin"]
+
+[[family]]
+name      = "Ouroboros"
+upstream  = "https://gitlab.com/velvetyne/ouroboros"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-02-22"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["ouroboros"]
+
+[[family]]
+name      = "Outward"
+upstream  = "https://github.com/raoulaudouin/Outward"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["outward"]
+
+[[family]]
+name      = "Ouvrières"
+upstream  = "https://github.com/laureazz/Ouvrieres"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["ouvrieres", "ouvrires"]
+
+[[family]]
+name      = "Pecita"
+upstream  = "http://pecita.eu/police-en.php"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["pecita"]
+
+[[family]]
+name      = "Petrona"
+upstream  = "https://github.com/RingoSeeber/Petrona"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2020-10-19"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["petrona"]
+
+[[family]]
+name      = "Piazzolla"
+upstream  = "https://github.com/huertatipografica/piazzolla"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-06-17"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["piazzolla"]
+
+[[family]]
+name      = "PicNic"
+upstream  = "https://gitlab.com/mariellenils/PicNic"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OTHER"
+updated   = "2024-10-14"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["velvetyne"]
+match     = ["picnic"]
+
+[[family]]
+name      = "Pictoporn"
+upstream  = "https://github.com/velvetyne/Pictoporn"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "none-found"
+updated   = "2023-09-01"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["velvetyne"]
+match     = ["pictoporn"]
+
+[[family]]
+name      = "Pilowlava"
+upstream  = "https://gitlab.com/StudioTriple/pilowlava"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["pilowlava"]
+
+[[family]]
+name      = "Pinyon Script"
+upstream  = "https://fonts.google.com/specimen/Pinyon+Script"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["pinyonscript"]
+
+[[family]]
+name      = "Player Sans Mono"
+upstream  = "https://github.com/justinpenner/player-sans-mono"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2022-09-28"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["playersansmono"]
+
+[[family]]
+name      = "Playfair Display"
+upstream  = "https://fonts.google.com/specimen/Playfair+Display"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["playfair", "playfairdisplay"]
+
+[[family]]
+name      = "Public Sans"
+upstream  = "https://github.com/uswds/public-sans"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-07-06"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["publicsans"]
+
+[[family]]
+name      = "Quattrocento"
+upstream  = "https://fonts.google.com/specimen/Quattrocento"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["quattrocento"]
+
+[[family]]
+name      = "Recursive"
+upstream  = "https://github.com/arrowtype/recursive"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-10-02"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["recursive"]
+
+[[family]]
+name      = "Red Hat"
+upstream  = "https://github.com/RedHatOfficial/RedHatFont"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-04-28"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["redhat", "redhatdisplay", "redhatmono", "redhattext"]
+
+[[family]]
+name      = "Renner"
+upstream  = "http://indestructibletype.com/Renner.html"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["renner"]
+
+[[family]]
+name      = "Runic"
+upstream  = "https://github.com/velvetyne/runic"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-10-10"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["runic"]
+
+[[family]]
+name      = "Résistance"
+upstream  = "https://github.com/velvetyne/resistance-generale"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-01-28"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["resistance", "resistancegenerale", "rsistance"]
+
+[[family]]
+name      = "Saintjean"
+upstream  = "https://github.com/velvetyne/saintjean"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-10-15"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["saintjean"]
+
+[[family]]
+name      = "Savate"
+upstream  = "https://fonts.google.com/specimen/Savate"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["savate"]
+
+[[family]]
+name      = "Section"
+upstream  = "https://github.com/brycewilner/Section"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2017-07-31"
+favourite = false
+in_repo   = 0
+note      = "Bryce Wilner's repo carries no license, so it can't be redistributed until it does."
+fetched   = false
+sources   = ["libretype"]
+match     = ["section"]
+
+[[family]]
+name      = "Sinkin Sans"
+upstream  = "https://www.k-type.com/fonts/sinkin-sans"
+type      = "web"
+foundry   = ""
+license   = "Apache-2.0"
+updated   = ""
+favourite = false
+in_repo   = 18
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["sinkinsans"]
+
+[[family]]
+name      = "Sligoil"
+upstream  = "https://gitlab.com/velvetyne/sligoil"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2026-06-10"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["sligoil"]
+
+[[family]]
+name      = "Snap-it Mono"
+upstream  = "https://usemodify.com/fonts/snap-it"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["snapitmono"]
+
+[[family]]
+name      = "Solide Mirage"
+upstream  = "https://gitlab.com/StudioTriple/Solide-Mirage"
+type      = "gitlab"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["solidemirage"]
+
+[[family]]
+name      = "Sono"
+upstream  = "https://github.com/sursly/sono"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2022-08-08"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["sono"]
+
+[[family]]
+name      = "Space Grotesk"
+upstream  = "https://github.com/floriankarsten/space-grotesk"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2023-03-12"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["spacegrotesk"]
+
+[[family]]
+name      = "Space Mono"
+upstream  = "https://github.com/googlefonts/spacemono"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["spacemono"]
+
+[[family]]
+name      = "Spleen"
+upstream  = "https://github.com/fcambus/spleen"
+type      = "github"
+foundry   = ""
+license   = "BSD-2-Clause"
+updated   = "2026-08-12"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["spleen"]
+
+[[family]]
+name      = "Sporting-Grotesque"
+upstream  = "https://gitlab.com/velvetyne/Sporting-Grotesque"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-03-05"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["sportinggrotesque"]
+
+[[family]]
+name      = "Standard"
+upstream  = "https://github.com/brycewilner/Standard"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2020-12-12"
+favourite = false
+in_repo   = 0
+note      = "Bryce Wilner's repo carries no license, so it can't be redistributed until it does."
+fetched   = false
+sources   = ["libretype"]
+match     = ["standard"]
+
+[[family]]
+name      = "Steinbeck"
+upstream  = "http://letters.temporarystate.net/entry/2"
+type      = "web"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["steinbeck"]
+
+[[family]]
+name      = "Steps Mono"
+upstream  = "https://gitlab.com/raphaelbastide/steps-mono"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["stepsmono"]
+
+[[family]]
+name      = "Sudo"
+upstream  = "https://github.com/jenskutilek/sudo-font"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-09-04"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["sudo"]
+
+[[family]]
+name      = "Terminal Grotesque"
+upstream  = "https://gitlab.com/raphaelbastide/Terminal-Grotesque"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["terminalgrotesque"]
+
+[[family]]
+name      = "Tillana"
+upstream  = "https://fonts.google.com/specimen/Tillana"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["tillana"]
+
+[[family]]
+name      = "TINY"
+upstream  = "https://github.com/jckfa/tinyfonts"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["tiny"]
+
+[[family]]
+name      = "Trickster"
+upstream  = "https://gitlab.com/velvetyne/Trickster"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2021-03-04"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["trickster"]
+
+[[family]]
+name      = "Typefesse"
+upstream  = "https://github.com/velvetyne/Typefesse"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2019-10-28"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["typefesse"]
+
+[[family]]
+name      = "Ubuntu"
+upstream  = "https://fonts.google.com/specimen/Ubuntu"
+type      = "google"
+foundry   = ""
+license   = "UFL-1.0"
+updated   = "2025-09-02"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["ubuntu"]
+
+[[family]]
+name      = "UnifrakturCook"
+upstream  = "https://fonts.google.com/specimen/UnifrakturCook"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["unifraktur", "unifrakturcook"]
+
+[[family]]
+name      = "Unsorted"
+upstream  = ""
+type      = "unknown"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 2
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["unsorted"]
+
+[[family]]
+name      = "Urbanist"
+upstream  = "https://github.com/coreyhu/Urbanist"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-12-02"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["urbanist"]
+
+[[family]]
+name      = "Urw Garamond"
+upstream  = "https://github.com/rbrito/urw-garamond"
+type      = "github"
+foundry   = ""
+license   = "none-found"
+updated   = "2010-10-26"
+favourite = false
+in_repo   = 0
+note      = "Same design as Garamond No. 8 (garamond.org)."
+fetched   = false
+sources   = ["libretype"]
+match     = ["urwgaramond"]
+
+[[family]]
+name      = "Velvelyne"
+upstream  = "https://gitlab.com/mariellenils/Velvelyne"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OTHER"
+updated   = "2025-03-15"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["velvetyne"]
+match     = ["velvelyne"]
+
+[[family]]
+name      = "VG5000"
+upstream  = "https://gitlab.com/velvetyne/vg5000"
+type      = "gitlab"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2018-11-11"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["vg5000"]
+
+[[family]]
+name      = "Victor Mono"
+upstream  = "https://github.com/rubjo/victor-mono"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2026-07-18"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["victormono"]
+
+[[family]]
+name      = "Victorianna"
+upstream  = "https://github.com/velvetyne/Victorianna"
+type      = "github"
+foundry   = "Velvetyne"
+license   = "OFL-1.1"
+updated   = "2017-08-21"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["velvetyne", "Families"]
+match     = ["victorianna"]
+
+[[family]]
+name      = "Violet Sans"
+upstream  = "https://github.com/violetoffice/violet_sans"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2020-01-14"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["violetsans"]
+
+[[family]]
+name      = "W Droge Itinerary"
+upstream  = ""
+type      = "unknown"
+foundry   = ""
+license   = "unverified"
+updated   = ""
+favourite = false
+in_repo   = 1
+note      = ""
+fetched   = false
+sources   = ["libreFontLibrary"]
+match     = ["wdroge", "wdrogeitinerary"]
+
+[[family]]
+name      = "Wallingford"
+upstream  = "https://github.com/eliheuer/wallingford"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2021-08-15"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["wallingford"]
+
+[[family]]
+name      = "Work Sans"
+upstream  = "https://github.com/weiweihuanghuang/Work-Sans"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["worksans"]
+
+[[family]]
+name      = "Wremena"
+upstream  = "http://typefaces.temporarystate.net/preview/Wremena"
+type      = "web"
+foundry   = ""
+license   = "unclear"
+updated   = ""
+favourite = false
+in_repo   = 3
+note      = "The font files say 'All rights reserved'; the foundry offers it free. Ask before redistributing."
+fetched   = false
+sources   = ["libretype", "libreFontLibrary"]
+match     = ["wremena"]
+
+[[family]]
+name      = "Wu3 Segments"
+upstream  = "https://github.com/gheja/wu3-segments"
+type      = "github"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2024-12-03"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = false
+sources   = ["libretype"]
+match     = ["wu3segments"]
+
+[[family]]
+name      = "Yantramanav"
+upstream  = "https://fonts.google.com/specimen/Yantramanav"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = "2025-09-16"
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["libretype", "Families"]
+match     = ["yantramanav"]
+
+[[family]]
+name      = "Yatra One"
+upstream  = "https://fonts.google.com/specimen/Yatra+One"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["yatra", "yatraone"]
+
+[[family]]
+name      = "Young Serif"
+upstream  = "https://fonts.google.com/specimen/Young+Serif"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = ""
+fetched   = true
+sources   = ["Families"]
+match     = ["youngserif"]

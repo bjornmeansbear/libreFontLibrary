@@ -1,0 +1,7 @@
+# Google Fonts picks — read by build_manifest.py.
+#
+# Easiest: on fonts.google.com, click "Get font" on every family you like, open
+# the bag, click "Get embed code", and paste the link here:
+#   https://fonts.googleapis.com/css2?family=Newsreader&family=Atkinson+Hyperlegible...
+#
+# Or one family name per line. Lines starting with # are ignored.
