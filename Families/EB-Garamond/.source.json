@@ -1,0 +1,14 @@
+{
+ "name": "EB Garamond",
+ "upstream": "https://fonts.google.com/specimen/EB+Garamond",
+ "license": "OFL-1.1",
+ "license_file_reads_as": "OFL-1.1",
+ "fetched": "2026-11-24",
+ "files": [
+  "EBGaramond-Italic[wght].ttf",
+  "EBGaramond[wght].ttf"
+ ],
+ "license_files": [
+  "OFL.txt"
+ ]
+}

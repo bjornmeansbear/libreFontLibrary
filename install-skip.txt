@@ -1,0 +1,12 @@
+# Files build_manifest.py leaves out of install-list.txt, so ./install.sh
+# never installs them. One path (or glob) per line, relative to Families/.
+# Say why above each entry. ./install.sh --all ignores this list.
+#
+# Use it for an old or bundled copy of a family that has its own, better
+# entry: two copies sharing a family name make apps misbehave.
+
+# Geneve 1564 bundles Georg Duffner's old static EB Garamond. The current
+# variable EB Garamond has its own entry (Families/EB-Garamond/), with small
+# caps built in. The Initials are a separate family and stay. 2026-11-24.
+Geneve-1564/EBGaramond08-*.otf
+Geneve-1564/EBGaramond12-*.otf

@@ -2655,3 +2655,17 @@ note      = ""
 fetched   = true
 sources   = ["Families"]
 match     = ["youngserif"]
+
+[[family]]
+name      = "EB Garamond"
+upstream  = "https://fonts.google.com/specimen/EB+Garamond"
+type      = "google"
+foundry   = ""
+license   = "OFL-1.1"
+updated   = ""
+favourite = false
+in_repo   = 0
+note      = "Added 2026-11-24 for the bjorn-design roster. Georg Duffner, Octavio Pardo. OFL confirmed from google/fonts ofl/ebgaramond (OFL.txt, METADATA.pb)."
+fetched   = true
+sources   = ["roster"]
+match     = ["ebgaramond"]
