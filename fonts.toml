@@ -67,20 +67,6 @@ sources   = ["libreFontList", "libretype", "Families"]
 match     = ["fira"]
 
 [[family]]
-name      = "Garamond No. 8"
-upstream  = "https://garamond.org"
-type      = "web"
-foundry   = ""
-license   = "unverified"
-updated   = ""
-favourite = true
-in_repo   = 8
-note      = ""
-fetched   = false
-sources   = ["libreFontList", "libreFontLibrary"]
-match     = ["garamondno8"]
-
-[[family]]
 name      = "Gentium"
 upstream  = "https://software.sil.org/gentium/download"
 type      = "web"
@@ -2459,20 +2445,6 @@ note      = ""
 fetched   = true
 sources   = ["libretype", "Families"]
 match     = ["urbanist"]
-
-[[family]]
-name      = "Urw Garamond"
-upstream  = "https://github.com/rbrito/urw-garamond"
-type      = "github"
-foundry   = ""
-license   = "none-found"
-updated   = "2010-10-26"
-favourite = false
-in_repo   = 0
-note      = "Same design as Garamond No. 8 (garamond.org)."
-fetched   = false
-sources   = ["libretype"]
-match     = ["urwgaramond"]
 
 [[family]]
 name      = "Velvelyne"
